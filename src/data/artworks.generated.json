@@ -1,0 +1,2186 @@
+[
+  {
+    "id": "15-2-0",
+    "title": "Obra 1",
+    "category": "escultura-sucata",
+    "src": "/img/15 (2).jpg",
+    "year": null
+  },
+  {
+    "id": "3x4-138-2-1",
+    "title": "Obra 2",
+    "category": "escultura-sucata",
+    "src": "/img/3x4_ 138 (2).jpg",
+    "year": null
+  },
+  {
+    "id": "acrilico-sobre-ela2-2",
+    "title": "Obra 3",
+    "category": "pintura",
+    "src": "/img/acrilico sobre ela2.jpg",
+    "year": null
+  },
+  {
+    "id": "adaoeva-3",
+    "title": "Obra 4",
+    "category": "escultura-sucata",
+    "src": "/img/adaoEva.jpg",
+    "year": null
+  },
+  {
+    "id": "anjo-4",
+    "title": "Obra 5",
+    "category": "escultura-sucata",
+    "src": "/img/anjo.jpg",
+    "year": null
+  },
+  {
+    "id": "aqua-5",
+    "title": "Obra 6",
+    "category": "zodiaco",
+    "src": "/img/aqua.jpg",
+    "year": null
+  },
+  {
+    "id": "argila-6",
+    "title": "Obra 7",
+    "category": "argila",
+    "src": "/img/argila.jpg",
+    "year": null
+  },
+  {
+    "id": "argila109-7",
+    "title": "Obra 8",
+    "category": "argila",
+    "src": "/img/argila109.jpg",
+    "year": null
+  },
+  {
+    "id": "argila110-8",
+    "title": "Obra 9",
+    "category": "argila",
+    "src": "/img/argila110.jpg",
+    "year": null
+  },
+  {
+    "id": "argila111-9",
+    "title": "Obra 10",
+    "category": "argila",
+    "src": "/img/argila111.jpg",
+    "year": null
+  },
+  {
+    "id": "argila112-10",
+    "title": "Obra 11",
+    "category": "argila",
+    "src": "/img/argila112.jpg",
+    "year": null
+  },
+  {
+    "id": "argila113-11",
+    "title": "Obra 12",
+    "category": "argila",
+    "src": "/img/argila113.jpg",
+    "year": null
+  },
+  {
+    "id": "argila114-12",
+    "title": "Obra 13",
+    "category": "argila",
+    "src": "/img/argila114.jpg",
+    "year": null
+  },
+  {
+    "id": "argila115-13",
+    "title": "Obra 14",
+    "category": "argila",
+    "src": "/img/argila115.jpg",
+    "year": null
+  },
+  {
+    "id": "argila116-14",
+    "title": "Obra 15",
+    "category": "argila",
+    "src": "/img/argila116.jpg",
+    "year": null
+  },
+  {
+    "id": "argila117-15",
+    "title": "Obra 16",
+    "category": "argila",
+    "src": "/img/argila117.jpg",
+    "year": null
+  },
+  {
+    "id": "argila118-16",
+    "title": "Obra 17",
+    "category": "argila",
+    "src": "/img/argila118.jpg",
+    "year": null
+  },
+  {
+    "id": "argila120-17",
+    "title": "Obra 18",
+    "category": "argila",
+    "src": "/img/argila120.jpg",
+    "year": null
+  },
+  {
+    "id": "argila121-18",
+    "title": "Obra 19",
+    "category": "argila",
+    "src": "/img/argila121.jpg",
+    "year": null
+  },
+  {
+    "id": "arie-19",
+    "title": "Obra 20",
+    "category": "zodiaco",
+    "src": "/img/arie.jpg",
+    "year": null
+  },
+  {
+    "id": "aries-20",
+    "title": "Obra 21",
+    "category": "zodiaco",
+    "src": "/img/aries.jpg",
+    "year": null
+  },
+  {
+    "id": "artedepressao-21",
+    "title": "Obra 22",
+    "category": "pintura",
+    "src": "/img/arteDepressao.jpg",
+    "year": null
+  },
+  {
+    "id": "artista-22",
+    "title": "Obra 23",
+    "category": "retratos",
+    "src": "/img/artista.jpg",
+    "year": null
+  },
+  {
+    "id": "artpop-23",
+    "title": "Obra 24",
+    "category": "pintura",
+    "src": "/img/artPop.jpg",
+    "year": null
+  },
+  {
+    "id": "burrinho-24",
+    "title": "Obra 25",
+    "category": "nordeste",
+    "src": "/img/burrinho.jpg",
+    "year": null
+  },
+  {
+    "id": "c0-25",
+    "title": "Obra 26",
+    "category": "zodiaco",
+    "src": "/img/c0.jpg",
+    "year": null
+  },
+  {
+    "id": "c1-26",
+    "title": "Obra 27",
+    "category": "acervo",
+    "src": "/img/c1.jpg",
+    "year": null
+  },
+  {
+    "id": "c10-27",
+    "title": "Obra 28",
+    "category": "acervo",
+    "src": "/img/c10.jpg",
+    "year": null
+  },
+  {
+    "id": "c11-28",
+    "title": "Obra 29",
+    "category": "acervo",
+    "src": "/img/c11.jpg",
+    "year": null
+  },
+  {
+    "id": "c12-29",
+    "title": "Obra 30",
+    "category": "acervo",
+    "src": "/img/c12.jpg",
+    "year": null
+  },
+  {
+    "id": "c2-30",
+    "title": "Obra 31",
+    "category": "acervo",
+    "src": "/img/c2.jpg",
+    "year": null
+  },
+  {
+    "id": "c3-31",
+    "title": "Obra 32",
+    "category": "acervo",
+    "src": "/img/c3.jpg",
+    "year": null
+  },
+  {
+    "id": "c4-32",
+    "title": "Obra 33",
+    "category": "acervo",
+    "src": "/img/c4.jpg",
+    "year": null
+  },
+  {
+    "id": "c5-33",
+    "title": "Obra 34",
+    "category": "acervo",
+    "src": "/img/c5.jpg",
+    "year": null
+  },
+  {
+    "id": "c6-34",
+    "title": "Obra 35",
+    "category": "acervo",
+    "src": "/img/c6.jpg",
+    "year": null
+  },
+  {
+    "id": "c7-35",
+    "title": "Obra 36",
+    "category": "acervo",
+    "src": "/img/c7.jpg",
+    "year": null
+  },
+  {
+    "id": "c8-36",
+    "title": "Obra 37",
+    "category": "acervo",
+    "src": "/img/c8.jpg",
+    "year": null
+  },
+  {
+    "id": "c9-37",
+    "title": "Obra 38",
+    "category": "acervo",
+    "src": "/img/c9.jpg",
+    "year": null
+  },
+  {
+    "id": "caatinga-38",
+    "title": "Obra 39",
+    "category": "nordeste",
+    "src": "/img/caatinga.jpg",
+    "year": null
+  },
+  {
+    "id": "calendar1-39",
+    "title": "Obra 40",
+    "category": "pintura",
+    "src": "/img/calendar1.jpg",
+    "year": null
+  },
+  {
+    "id": "calendar2-40",
+    "title": "Obra 41",
+    "category": "pintura",
+    "src": "/img/calendar2.jpg",
+    "year": null
+  },
+  {
+    "id": "canc-41",
+    "title": "Obra 42",
+    "category": "zodiaco",
+    "src": "/img/canc.jpg",
+    "year": null
+  },
+  {
+    "id": "capr-42",
+    "title": "Obra 43",
+    "category": "zodiaco",
+    "src": "/img/capr.jpg",
+    "year": null
+  },
+  {
+    "id": "cartum-43",
+    "title": "Obra 44",
+    "category": "grafite",
+    "src": "/img/cartum.jpg",
+    "year": null
+  },
+  {
+    "id": "cavalo-44",
+    "title": "Obra 45",
+    "category": "escultura-sucata",
+    "src": "/img/cavalo.jpg",
+    "year": null
+  },
+  {
+    "id": "cavalos1-45",
+    "title": "Obra 46",
+    "category": "nordeste",
+    "src": "/img/cavalos1.jpg",
+    "year": null
+  },
+  {
+    "id": "cavalos2-46",
+    "title": "Obra 47",
+    "category": "nordeste",
+    "src": "/img/cavalos2.jpg",
+    "year": null
+  },
+  {
+    "id": "cavalos3-47",
+    "title": "Obra 48",
+    "category": "nordeste",
+    "src": "/img/cavalos3.jpg",
+    "year": null
+  },
+  {
+    "id": "ciranda-48",
+    "title": "Obra 49",
+    "category": "nordeste",
+    "src": "/img/ciranda.jpg",
+    "year": null
+  },
+  {
+    "id": "comunicacao-49",
+    "title": "Obra 50",
+    "category": "escultura-sucata",
+    "src": "/img/comunicacao.jpg",
+    "year": null
+  },
+  {
+    "id": "con1-50",
+    "title": "Obra 51",
+    "category": "acervo",
+    "src": "/img/con1.jpg",
+    "year": null
+  },
+  {
+    "id": "con10-51",
+    "title": "Obra 52",
+    "category": "acervo",
+    "src": "/img/con10.jpg",
+    "year": null
+  },
+  {
+    "id": "con11-52",
+    "title": "Obra 53",
+    "category": "acervo",
+    "src": "/img/con11.jpg",
+    "year": null
+  },
+  {
+    "id": "con2-53",
+    "title": "Obra 54",
+    "category": "acervo",
+    "src": "/img/con2.jpg",
+    "year": null
+  },
+  {
+    "id": "con22-54",
+    "title": "Obra 55",
+    "category": "acervo",
+    "src": "/img/con22.jpg",
+    "year": null
+  },
+  {
+    "id": "con23-55",
+    "title": "Obra 56",
+    "category": "acervo",
+    "src": "/img/con23.jpg",
+    "year": null
+  },
+  {
+    "id": "con24-56",
+    "title": "Obra 57",
+    "category": "acervo",
+    "src": "/img/con24.jpg",
+    "year": null
+  },
+  {
+    "id": "con3-57",
+    "title": "Obra 58",
+    "category": "acervo",
+    "src": "/img/con3.jpg",
+    "year": null
+  },
+  {
+    "id": "con5-58",
+    "title": "Obra 59",
+    "category": "acervo",
+    "src": "/img/con5.jpg",
+    "year": null
+  },
+  {
+    "id": "con6-59",
+    "title": "Obra 60",
+    "category": "acervo",
+    "src": "/img/con6.jpg",
+    "year": null
+  },
+  {
+    "id": "con7-60",
+    "title": "Obra 61",
+    "category": "acervo",
+    "src": "/img/con7.jpg",
+    "year": null
+  },
+  {
+    "id": "con8-61",
+    "title": "Obra 62",
+    "category": "acervo",
+    "src": "/img/con8.jpg",
+    "year": null
+  },
+  {
+    "id": "con9-62",
+    "title": "Obra 63",
+    "category": "acervo",
+    "src": "/img/con9.jpg",
+    "year": null
+  },
+  {
+    "id": "cores1-63",
+    "title": "Obra 64",
+    "category": "pintura",
+    "src": "/img/cores1.jpg",
+    "year": null
+  },
+  {
+    "id": "cores10-64",
+    "title": "Obra 65",
+    "category": "pintura",
+    "src": "/img/cores10.jpg",
+    "year": null
+  },
+  {
+    "id": "cores11-65",
+    "title": "Obra 66",
+    "category": "pintura",
+    "src": "/img/cores11.jpg",
+    "year": null
+  },
+  {
+    "id": "cores12-66",
+    "title": "Obra 67",
+    "category": "pintura",
+    "src": "/img/cores12.jpg",
+    "year": null
+  },
+  {
+    "id": "cores13-67",
+    "title": "Obra 68",
+    "category": "pintura",
+    "src": "/img/cores13.jpg",
+    "year": null
+  },
+  {
+    "id": "cores14-68",
+    "title": "Obra 69",
+    "category": "pintura",
+    "src": "/img/cores14.jpg",
+    "year": null
+  },
+  {
+    "id": "cores15-69",
+    "title": "Obra 70",
+    "category": "pintura",
+    "src": "/img/cores15.jpg",
+    "year": null
+  },
+  {
+    "id": "cores16-70",
+    "title": "Obra 71",
+    "category": "pintura",
+    "src": "/img/cores16.jpg",
+    "year": null
+  },
+  {
+    "id": "cores17-71",
+    "title": "Obra 72",
+    "category": "pintura",
+    "src": "/img/cores17.jpg",
+    "year": null
+  },
+  {
+    "id": "cores18-72",
+    "title": "Obra 73",
+    "category": "pintura",
+    "src": "/img/cores18.jpg",
+    "year": null
+  },
+  {
+    "id": "cores2-73",
+    "title": "Obra 74",
+    "category": "pintura",
+    "src": "/img/cores2.jpg",
+    "year": null
+  },
+  {
+    "id": "cores3-74",
+    "title": "Obra 75",
+    "category": "pintura",
+    "src": "/img/cores3.jpg",
+    "year": null
+  },
+  {
+    "id": "cores4-75",
+    "title": "Obra 76",
+    "category": "pintura",
+    "src": "/img/cores4.jpg",
+    "year": null
+  },
+  {
+    "id": "cores5-76",
+    "title": "Obra 77",
+    "category": "pintura",
+    "src": "/img/cores5.jpg",
+    "year": null
+  },
+  {
+    "id": "cores6-77",
+    "title": "Obra 78",
+    "category": "pintura",
+    "src": "/img/cores6.jpg",
+    "year": null
+  },
+  {
+    "id": "cores7-78",
+    "title": "Obra 79",
+    "category": "pintura",
+    "src": "/img/cores7.jpg",
+    "year": null
+  },
+  {
+    "id": "cores8-79",
+    "title": "Obra 80",
+    "category": "pintura",
+    "src": "/img/cores8.jpg",
+    "year": null
+  },
+  {
+    "id": "cores9-80",
+    "title": "Obra 81",
+    "category": "pintura",
+    "src": "/img/cores9.jpg",
+    "year": null
+  },
+  {
+    "id": "criancas1-81",
+    "title": "Obra 82",
+    "category": "pintura",
+    "src": "/img/criancas1.jpg",
+    "year": null
+  },
+  {
+    "id": "criancas2-82",
+    "title": "Obra 83",
+    "category": "pintura",
+    "src": "/img/criancas2.jpg",
+    "year": null
+  },
+  {
+    "id": "criancas3-83",
+    "title": "Obra 84",
+    "category": "pintura",
+    "src": "/img/criancas3.jpg",
+    "year": null
+  },
+  {
+    "id": "criancas4-84",
+    "title": "Obra 85",
+    "category": "pintura",
+    "src": "/img/criancas4.jpg",
+    "year": null
+  },
+  {
+    "id": "criancas5-85",
+    "title": "Obra 86",
+    "category": "pintura",
+    "src": "/img/criancas5.jpg",
+    "year": null
+  },
+  {
+    "id": "doispalhaco-86",
+    "title": "Obra 87",
+    "category": "escultura-sucata",
+    "src": "/img/doispalhaco.jpg",
+    "year": null
+  },
+  {
+    "id": "doispalhacos-87",
+    "title": "Obra 88",
+    "category": "escultura-sucata",
+    "src": "/img/doisPalhacos.jpg",
+    "year": null
+  },
+  {
+    "id": "dsc00641-2-88",
+    "title": "Obra 89",
+    "category": "escultura-sucata",
+    "src": "/img/dsc00641 (2).jpg",
+    "year": null
+  },
+  {
+    "id": "dsc00642-2-89",
+    "title": "Obra 90",
+    "category": "escultura-sucata",
+    "src": "/img/dsc00642 (2).jpg",
+    "year": null
+  },
+  {
+    "id": "dscn1028-2-90",
+    "title": "Obra 91",
+    "category": "escultura-sucata",
+    "src": "/img/dscn1028 (2).jpg",
+    "year": null
+  },
+  {
+    "id": "dscn1073-2-91",
+    "title": "Obra 92",
+    "category": "escultura-sucata",
+    "src": "/img/dscn1073 (2).jpg",
+    "year": null
+  },
+  {
+    "id": "dscn1076-2-92",
+    "title": "Obra 93",
+    "category": "escultura-sucata",
+    "src": "/img/dscn1076 (2).jpg",
+    "year": null
+  },
+  {
+    "id": "dscn1190-93",
+    "title": "Obra 94",
+    "category": "escultura-sucata",
+    "src": "/img/dscn1190.jpg",
+    "year": null
+  },
+  {
+    "id": "dscn2545-94",
+    "title": "Obra 95",
+    "category": "escultura-sucata",
+    "src": "/img/dscn2545.jpg",
+    "year": null
+  },
+  {
+    "id": "escor-95",
+    "title": "Obra 96",
+    "category": "zodiaco",
+    "src": "/img/escor.jpg",
+    "year": null
+  },
+  {
+    "id": "escultura-96",
+    "title": "Obra 97",
+    "category": "escultura-sucata",
+    "src": "/img/escultura.jpg",
+    "year": null
+  },
+  {
+    "id": "escutura-97",
+    "title": "Obra 98",
+    "category": "escultura-sucata",
+    "src": "/img/escutura.jpg",
+    "year": null
+  },
+  {
+    "id": "faces-coloridas-98",
+    "title": "Obra 99",
+    "category": "pintura",
+    "src": "/img/faces coloridas.jpg",
+    "year": null
+  },
+  {
+    "id": "foto-1-99",
+    "title": "Obra 100",
+    "category": "acervo",
+    "src": "/img/foto (1).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-10-100",
+    "title": "Obra 101",
+    "category": "acervo",
+    "src": "/img/Foto (10).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-100-101",
+    "title": "Obra 102",
+    "category": "pintura",
+    "src": "/img/foto (100).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-101-102",
+    "title": "Obra 103",
+    "category": "pintura",
+    "src": "/img/foto (101).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-105-103",
+    "title": "Obra 104",
+    "category": "pintura",
+    "src": "/img/foto (105).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-106-104",
+    "title": "Obra 105",
+    "category": "pintura",
+    "src": "/img/foto (106).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-109-105",
+    "title": "Obra 106",
+    "category": "escultura-sucata",
+    "src": "/img/foto (109).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-11-106",
+    "title": "Obra 107",
+    "category": "acervo",
+    "src": "/img/Foto (11).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-113-107",
+    "title": "Obra 108",
+    "category": "pintura",
+    "src": "/img/foto (113).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-117-108",
+    "title": "Obra 109",
+    "category": "pintura",
+    "src": "/img/foto (117).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-119-109",
+    "title": "Obra 110",
+    "category": "pintura",
+    "src": "/img/foto (119).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-12-110",
+    "title": "Obra 111",
+    "category": "acervo",
+    "src": "/img/Foto (12).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-121-111",
+    "title": "Obra 112",
+    "category": "pintura",
+    "src": "/img/foto (121).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-129-112",
+    "title": "Obra 113",
+    "category": "escultura-sucata",
+    "src": "/img/foto (129).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-137-113",
+    "title": "Obra 114",
+    "category": "escultura-sucata",
+    "src": "/img/foto (137).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-138-114",
+    "title": "Obra 115",
+    "category": "escultura-sucata",
+    "src": "/img/foto (138).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-14-115",
+    "title": "Obra 116",
+    "category": "acervo",
+    "src": "/img/Foto (14).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-141-116",
+    "title": "Obra 117",
+    "category": "escultura-sucata",
+    "src": "/img/foto (141).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-142-117",
+    "title": "Obra 118",
+    "category": "escultura-sucata",
+    "src": "/img/foto (142).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-145-118",
+    "title": "Obra 119",
+    "category": "acervo",
+    "src": "/img/foto (145).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-146-119",
+    "title": "Obra 120",
+    "category": "acervo",
+    "src": "/img/foto (146).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-147-120",
+    "title": "Obra 121",
+    "category": "escultura-sucata",
+    "src": "/img/foto (147).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-148-121",
+    "title": "Obra 122",
+    "category": "escultura-sucata",
+    "src": "/img/foto (148).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-149-122",
+    "title": "Obra 123",
+    "category": "pintura",
+    "src": "/img/foto (149).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-15-123",
+    "title": "Obra 124",
+    "category": "pintura",
+    "src": "/img/Foto (15).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-152-124",
+    "title": "Obra 125",
+    "category": "escultura-sucata",
+    "src": "/img/foto (152).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-154-125",
+    "title": "Obra 126",
+    "category": "escultura-sucata",
+    "src": "/img/foto (154).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-155-126",
+    "title": "Obra 127",
+    "category": "escultura-sucata",
+    "src": "/img/foto (155).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-16-127",
+    "title": "Obra 128",
+    "category": "acervo",
+    "src": "/img/Foto (16).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-164-128",
+    "title": "Obra 129",
+    "category": "escultura-sucata",
+    "src": "/img/foto (164).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-167-129",
+    "title": "Obra 130",
+    "category": "escultura-sucata",
+    "src": "/img/foto (167).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-169-130",
+    "title": "Obra 131",
+    "category": "escultura-sucata",
+    "src": "/img/foto (169).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-17-131",
+    "title": "Obra 132",
+    "category": "pintura",
+    "src": "/img/Foto (17).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-179-132",
+    "title": "Obra 133",
+    "category": "escultura-sucata",
+    "src": "/img/foto (179).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-185-133",
+    "title": "Obra 134",
+    "category": "pintura",
+    "src": "/img/foto (185).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-19-134",
+    "title": "Obra 135",
+    "category": "acervo",
+    "src": "/img/foto (19).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-192-135",
+    "title": "Obra 136",
+    "category": "escultura-sucata",
+    "src": "/img/foto (192).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-194-136",
+    "title": "Obra 137",
+    "category": "escultura-sucata",
+    "src": "/img/foto (194).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-196-137",
+    "title": "Obra 138",
+    "category": "escultura-sucata",
+    "src": "/img/foto (196).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-198-138",
+    "title": "Obra 139",
+    "category": "acervo",
+    "src": "/img/foto (198).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-209-139",
+    "title": "Obra 140",
+    "category": "escultura-sucata",
+    "src": "/img/foto (209).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-21-140",
+    "title": "Obra 141",
+    "category": "pintura",
+    "src": "/img/foto (21).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-220-141",
+    "title": "Obra 142",
+    "category": "escultura-sucata",
+    "src": "/img/foto (220).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-222-142",
+    "title": "Obra 143",
+    "category": "escultura-sucata",
+    "src": "/img/foto (222).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-224-143",
+    "title": "Obra 144",
+    "category": "escultura-sucata",
+    "src": "/img/foto (224).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-225-144",
+    "title": "Obra 145",
+    "category": "escultura-sucata",
+    "src": "/img/foto (225).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-226-145",
+    "title": "Obra 146",
+    "category": "pintura",
+    "src": "/img/foto (226).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-23-146",
+    "title": "Obra 147",
+    "category": "pintura",
+    "src": "/img/foto (23).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-235-147",
+    "title": "Obra 148",
+    "category": "escultura-sucata",
+    "src": "/img/foto (235).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-237-148",
+    "title": "Obra 149",
+    "category": "escultura-sucata",
+    "src": "/img/foto (237).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-24-149",
+    "title": "Obra 150",
+    "category": "pintura",
+    "src": "/img/foto (24).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-25-150",
+    "title": "Obra 151",
+    "category": "pintura",
+    "src": "/img/foto (25).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-26-151",
+    "title": "Obra 152",
+    "category": "pintura",
+    "src": "/img/foto (26).jpeg",
+    "year": null
+  },
+  {
+    "id": "foto-27-152",
+    "title": "Obra 153",
+    "category": "pintura",
+    "src": "/img/foto (27).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-29-153",
+    "title": "Obra 154",
+    "category": "pintura",
+    "src": "/img/foto (29).jpeg",
+    "year": null
+  },
+  {
+    "id": "foto-29-154",
+    "title": "Obra 155",
+    "category": "acervo",
+    "src": "/img/Foto (29).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-3-155",
+    "title": "Obra 156",
+    "category": "pintura",
+    "src": "/img/foto (3).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-30-156",
+    "title": "Obra 157",
+    "category": "pintura",
+    "src": "/img/foto (30).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-33-157",
+    "title": "Obra 158",
+    "category": "pintura",
+    "src": "/img/foto (33).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-37-158",
+    "title": "Obra 159",
+    "category": "acervo",
+    "src": "/img/foto (37).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-386-159",
+    "title": "Obra 160",
+    "category": "escultura-sucata",
+    "src": "/img/foto (386).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-39-160",
+    "title": "Obra 161",
+    "category": "escultura-sucata",
+    "src": "/img/foto (39).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-395-161",
+    "title": "Obra 162",
+    "category": "escultura-sucata",
+    "src": "/img/foto (395).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-4-162",
+    "title": "Obra 163",
+    "category": "pintura",
+    "src": "/img/foto (4).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-411-163",
+    "title": "Obra 164",
+    "category": "escultura-sucata",
+    "src": "/img/foto (411).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-46-164",
+    "title": "Obra 165",
+    "category": "pintura",
+    "src": "/img/foto (46).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-52-165",
+    "title": "Obra 166",
+    "category": "escultura-sucata",
+    "src": "/img/foto (52).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-53-166",
+    "title": "Obra 167",
+    "category": "escultura-sucata",
+    "src": "/img/foto (53).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-57-1-167",
+    "title": "Obra 168",
+    "category": "acervo",
+    "src": "/img/foto (57.1).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-76-1-168",
+    "title": "Obra 169",
+    "category": "pintura",
+    "src": "/img/foto (76.1).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-79-169",
+    "title": "Obra 170",
+    "category": "pintura",
+    "src": "/img/foto (79).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-8-170",
+    "title": "Obra 171",
+    "category": "pintura",
+    "src": "/img/foto (8).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-84-171",
+    "title": "Obra 172",
+    "category": "pintura",
+    "src": "/img/foto (84).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-9-172",
+    "title": "Obra 173",
+    "category": "pintura",
+    "src": "/img/Foto (9).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-90-173",
+    "title": "Obra 174",
+    "category": "pintura",
+    "src": "/img/foto (90).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-95-174",
+    "title": "Obra 175",
+    "category": "pintura",
+    "src": "/img/foto (95).jpg",
+    "year": null
+  },
+  {
+    "id": "foto-175",
+    "title": "Obra 176",
+    "category": "acervo",
+    "src": "/img/Foto.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco1-176",
+    "title": "Obra 177",
+    "category": "pintura",
+    "src": "/img/francisco1.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco10-177",
+    "title": "Obra 178",
+    "category": "pintura",
+    "src": "/img/francisco10.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco11-178",
+    "title": "Obra 179",
+    "category": "pintura",
+    "src": "/img/francisco11.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco12-179",
+    "title": "Obra 180",
+    "category": "pintura",
+    "src": "/img/francisco12.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco2-180",
+    "title": "Obra 181",
+    "category": "pintura",
+    "src": "/img/francisco2.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco3-181",
+    "title": "Obra 182",
+    "category": "pintura",
+    "src": "/img/francisco3.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco4-182",
+    "title": "Obra 183",
+    "category": "pintura",
+    "src": "/img/francisco4.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco5-183",
+    "title": "Obra 184",
+    "category": "pintura",
+    "src": "/img/francisco5.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco6-184",
+    "title": "Obra 185",
+    "category": "pintura",
+    "src": "/img/francisco6.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco8-185",
+    "title": "Obra 186",
+    "category": "pintura",
+    "src": "/img/francisco8.jpg",
+    "year": null
+  },
+  {
+    "id": "francisco9-186",
+    "title": "Obra 187",
+    "category": "pintura",
+    "src": "/img/francisco9.jpg",
+    "year": null
+  },
+  {
+    "id": "fundos-187",
+    "title": "Obra 188",
+    "category": "retratos",
+    "src": "/img/fundos.jpg",
+    "year": null
+  },
+  {
+    "id": "gem-188",
+    "title": "Obra 189",
+    "category": "zodiaco",
+    "src": "/img/gem.jpg",
+    "year": null
+  },
+  {
+    "id": "grafit1-189",
+    "title": "Obra 190",
+    "category": "grafite",
+    "src": "/img/grafit1.jpg",
+    "year": null
+  },
+  {
+    "id": "grafit10-190",
+    "title": "Obra 191",
+    "category": "grafite",
+    "src": "/img/grafit10.jpg",
+    "year": null
+  },
+  {
+    "id": "grafit2-191",
+    "title": "Obra 192",
+    "category": "grafite",
+    "src": "/img/grafit2.jpg",
+    "year": null
+  },
+  {
+    "id": "grafit3-192",
+    "title": "Obra 193",
+    "category": "grafite",
+    "src": "/img/grafit3.jpg",
+    "year": null
+  },
+  {
+    "id": "grafit5-193",
+    "title": "Obra 194",
+    "category": "grafite",
+    "src": "/img/grafit5.jpg",
+    "year": null
+  },
+  {
+    "id": "grafit7-194",
+    "title": "Obra 195",
+    "category": "grafite",
+    "src": "/img/grafit7.jpg",
+    "year": null
+  },
+  {
+    "id": "grafit8-195",
+    "title": "Obra 196",
+    "category": "grafite",
+    "src": "/img/grafit8.jpg",
+    "year": null
+  },
+  {
+    "id": "grafit9-196",
+    "title": "Obra 197",
+    "category": "grafite",
+    "src": "/img/grafit9.jpg",
+    "year": null
+  },
+  {
+    "id": "grafite-197",
+    "title": "Obra 198",
+    "category": "grafite",
+    "src": "/img/grafite.jpg",
+    "year": null
+  },
+  {
+    "id": "iara-198",
+    "title": "Obra 199",
+    "category": "pintura",
+    "src": "/img/iara.jpg",
+    "year": null
+  },
+  {
+    "id": "incompleta-199",
+    "title": "Obra 200",
+    "category": "pintura",
+    "src": "/img/incompleta.jpg",
+    "year": null
+  },
+  {
+    "id": "incompleta2-200",
+    "title": "Obra 201",
+    "category": "pintura",
+    "src": "/img/incompleta2.jpg",
+    "year": null
+  },
+  {
+    "id": "jarro-201",
+    "title": "Obra 202",
+    "category": "argila",
+    "src": "/img/jarro.jpg",
+    "year": null
+  },
+  {
+    "id": "jarroargila-202",
+    "title": "Obra 203",
+    "category": "argila",
+    "src": "/img/jarroArgila.jpg",
+    "year": null
+  },
+  {
+    "id": "jarropassaro-203",
+    "title": "Obra 204",
+    "category": "argila",
+    "src": "/img/jarroPassaro.jpg",
+    "year": null
+  },
+  {
+    "id": "justica-204",
+    "title": "Obra 205",
+    "category": "pintura",
+    "src": "/img/justica.jpg",
+    "year": null
+  },
+  {
+    "id": "justica1-205",
+    "title": "Obra 206",
+    "category": "pintura",
+    "src": "/img/justica1.jpg",
+    "year": null
+  },
+  {
+    "id": "justica2-206",
+    "title": "Obra 207",
+    "category": "pintura",
+    "src": "/img/justica2.jpg",
+    "year": null
+  },
+  {
+    "id": "justica3-207",
+    "title": "Obra 208",
+    "category": "pintura",
+    "src": "/img/justica3.jpg",
+    "year": null
+  },
+  {
+    "id": "justica4-208",
+    "title": "Obra 209",
+    "category": "pintura",
+    "src": "/img/justica4.jpg",
+    "year": null
+  },
+  {
+    "id": "justica5-209",
+    "title": "Obra 210",
+    "category": "pintura",
+    "src": "/img/justica5.jpg",
+    "year": null
+  },
+  {
+    "id": "justica6-210",
+    "title": "Obra 211",
+    "category": "pintura",
+    "src": "/img/justica6.jpg",
+    "year": null
+  },
+  {
+    "id": "justy-211",
+    "title": "Obra 212",
+    "category": "pintura",
+    "src": "/img/justy.jpg",
+    "year": null
+  },
+  {
+    "id": "justy2-212",
+    "title": "Obra 213",
+    "category": "pintura",
+    "src": "/img/justy2.jpg",
+    "year": null
+  },
+  {
+    "id": "lea-213",
+    "title": "Obra 214",
+    "category": "zodiaco",
+    "src": "/img/lea.jpg",
+    "year": null
+  },
+  {
+    "id": "lib-214",
+    "title": "Obra 215",
+    "category": "zodiaco",
+    "src": "/img/lib.jpg",
+    "year": null
+  },
+  {
+    "id": "liberdade-215",
+    "title": "Obra 216",
+    "category": "pintura",
+    "src": "/img/liberdade.jpg",
+    "year": null
+  },
+  {
+    "id": "malucobeleza-216",
+    "title": "Obra 217",
+    "category": "escultura-sucata",
+    "src": "/img/malucoBeleza.jpg",
+    "year": null
+  },
+  {
+    "id": "mandala-217",
+    "title": "Obra 218",
+    "category": "argila",
+    "src": "/img/mandala.jpg",
+    "year": null
+  },
+  {
+    "id": "maoslimpas-218",
+    "title": "Obra 219",
+    "category": "escultura-sucata",
+    "src": "/img/maosLimpas.jpg",
+    "year": null
+  },
+  {
+    "id": "marcelo-219",
+    "title": "Obra 220",
+    "category": "pintura",
+    "src": "/img/marcelo.jpg",
+    "year": null
+  },
+  {
+    "id": "mascaras-220",
+    "title": "Obra 221",
+    "category": "escultura-sucata",
+    "src": "/img/mascaras.jpg",
+    "year": null
+  },
+  {
+    "id": "moranga-221",
+    "title": "Obra 222",
+    "category": "argila",
+    "src": "/img/moranga.jpg",
+    "year": null
+  },
+  {
+    "id": "n-16-copy-2-222",
+    "title": "Obra 223",
+    "category": "escultura-sucata",
+    "src": "/img/n 16 copy (2).jpg",
+    "year": null
+  },
+  {
+    "id": "n-23-copy-2-223",
+    "title": "Obra 224",
+    "category": "escultura-sucata",
+    "src": "/img/n 23 copy (2).jpg",
+    "year": null
+  },
+  {
+    "id": "n-24-copy-2-224",
+    "title": "Obra 225",
+    "category": "escultura-sucata",
+    "src": "/img/n 24 copy (2).jpg",
+    "year": null
+  },
+  {
+    "id": "n-35-copy-2-225",
+    "title": "Obra 226",
+    "category": "escultura-sucata",
+    "src": "/img/n 35 copy (2).jpg",
+    "year": null
+  },
+  {
+    "id": "n-38-2-226",
+    "title": "Obra 227",
+    "category": "escultura-sucata",
+    "src": "/img/n 38 (2).jpg",
+    "year": null
+  },
+  {
+    "id": "n-40-227",
+    "title": "Obra 228",
+    "category": "escultura-sucata",
+    "src": "/img/n 40.jpg",
+    "year": null
+  },
+  {
+    "id": "n1-228",
+    "title": "Obra 229",
+    "category": "escultura-sucata",
+    "src": "/img/n1.JPG",
+    "year": null
+  },
+  {
+    "id": "n10-229",
+    "title": "Obra 230",
+    "category": "escultura-sucata",
+    "src": "/img/n10.JPG",
+    "year": null
+  },
+  {
+    "id": "n11-230",
+    "title": "Obra 231",
+    "category": "escultura-sucata",
+    "src": "/img/n11.JPG",
+    "year": null
+  },
+  {
+    "id": "n12-231",
+    "title": "Obra 232",
+    "category": "escultura-sucata",
+    "src": "/img/n12.JPG",
+    "year": null
+  },
+  {
+    "id": "n2-232",
+    "title": "Obra 233",
+    "category": "escultura-sucata",
+    "src": "/img/n2.JPG",
+    "year": null
+  },
+  {
+    "id": "n3-233",
+    "title": "Obra 234",
+    "category": "escultura-sucata",
+    "src": "/img/n3.JPG",
+    "year": null
+  },
+  {
+    "id": "n4-234",
+    "title": "Obra 235",
+    "category": "escultura-sucata",
+    "src": "/img/n4.JPG",
+    "year": null
+  },
+  {
+    "id": "n5-235",
+    "title": "Obra 236",
+    "category": "escultura-sucata",
+    "src": "/img/n5.JPG",
+    "year": null
+  },
+  {
+    "id": "n6-236",
+    "title": "Obra 237",
+    "category": "escultura-sucata",
+    "src": "/img/n6.JPG",
+    "year": null
+  },
+  {
+    "id": "n7-237",
+    "title": "Obra 238",
+    "category": "escultura-sucata",
+    "src": "/img/n7.JPG",
+    "year": null
+  },
+  {
+    "id": "n8-238",
+    "title": "Obra 239",
+    "category": "escultura-sucata",
+    "src": "/img/n8.JPG",
+    "year": null
+  },
+  {
+    "id": "n9-239",
+    "title": "Obra 240",
+    "category": "escultura-sucata",
+    "src": "/img/n9.JPG",
+    "year": null
+  },
+  {
+    "id": "nobre2-240",
+    "title": "Obra 241",
+    "category": "escultura-sucata",
+    "src": "/img/nobre2.jpg",
+    "year": null
+  },
+  {
+    "id": "nobre3-241",
+    "title": "Obra 242",
+    "category": "retratos",
+    "src": "/img/nobre3.jpg",
+    "year": null
+  },
+  {
+    "id": "nobre4-242",
+    "title": "Obra 243",
+    "category": "retratos",
+    "src": "/img/nobre4.jpg",
+    "year": null
+  },
+  {
+    "id": "olhos-243",
+    "title": "Obra 244",
+    "category": "pintura",
+    "src": "/img/olhos.jpg",
+    "year": null
+  },
+  {
+    "id": "p65-244",
+    "title": "Obra 245",
+    "category": "pintura",
+    "src": "/img/p65.jpeg",
+    "year": null
+  },
+  {
+    "id": "p66-245",
+    "title": "Obra 246",
+    "category": "acervo",
+    "src": "/img/p66.jpeg",
+    "year": null
+  },
+  {
+    "id": "p67-246",
+    "title": "Obra 247",
+    "category": "acervo",
+    "src": "/img/p67.jpeg",
+    "year": null
+  },
+  {
+    "id": "p69-247",
+    "title": "Obra 248",
+    "category": "pintura",
+    "src": "/img/p69.jpeg",
+    "year": null
+  },
+  {
+    "id": "p70-248",
+    "title": "Obra 249",
+    "category": "pintura",
+    "src": "/img/p70.jpeg",
+    "year": null
+  },
+  {
+    "id": "p72-249",
+    "title": "Obra 250",
+    "category": "acervo",
+    "src": "/img/p72.jpeg",
+    "year": null
+  },
+  {
+    "id": "palhaco-250",
+    "title": "Obra 251",
+    "category": "escultura-sucata",
+    "src": "/img/palhaco.jpg",
+    "year": null
+  },
+  {
+    "id": "palhaco1-251",
+    "title": "Obra 252",
+    "category": "pintura",
+    "src": "/img/palhaco1.jpg",
+    "year": null
+  },
+  {
+    "id": "palhaco2-252",
+    "title": "Obra 253",
+    "category": "pintura",
+    "src": "/img/palhaco2.jpeg",
+    "year": null
+  },
+  {
+    "id": "palhaco3-253",
+    "title": "Obra 254",
+    "category": "pintura",
+    "src": "/img/palhaco3.jpg",
+    "year": null
+  },
+  {
+    "id": "palhaco4-254",
+    "title": "Obra 255",
+    "category": "pintura",
+    "src": "/img/palhaco4.jpg",
+    "year": null
+  },
+  {
+    "id": "palhaco5-255",
+    "title": "Obra 256",
+    "category": "pintura",
+    "src": "/img/palhaco5.jpg",
+    "year": null
+  },
+  {
+    "id": "passaro-256",
+    "title": "Obra 257",
+    "category": "nordeste",
+    "src": "/img/passaro.jpg",
+    "year": null
+  },
+  {
+    "id": "peix-257",
+    "title": "Obra 258",
+    "category": "zodiaco",
+    "src": "/img/peix.jpg",
+    "year": null
+  },
+  {
+    "id": "perfeicao-258",
+    "title": "Obra 259",
+    "category": "escultura-sucata",
+    "src": "/img/perfeicao.jpg",
+    "year": null
+  },
+  {
+    "id": "pescador-259",
+    "title": "Obra 260",
+    "category": "nordeste",
+    "src": "/img/pescador.jpg",
+    "year": null
+  },
+  {
+    "id": "pescadores-260",
+    "title": "Obra 261",
+    "category": "nordeste",
+    "src": "/img/pescadores.jpg",
+    "year": null
+  },
+  {
+    "id": "poeta-261",
+    "title": "Obra 262",
+    "category": "pintura",
+    "src": "/img/poeta.jpg",
+    "year": null
+  },
+  {
+    "id": "port1-262",
+    "title": "Obra 263",
+    "category": "escultura-sucata",
+    "src": "/img/port1.jpg",
+    "year": null
+  },
+  {
+    "id": "port10-263",
+    "title": "Obra 264",
+    "category": "escultura-sucata",
+    "src": "/img/port10.jpg",
+    "year": null
+  },
+  {
+    "id": "port11-264",
+    "title": "Obra 265",
+    "category": "escultura-sucata",
+    "src": "/img/port11.jpg",
+    "year": null
+  },
+  {
+    "id": "port12-265",
+    "title": "Obra 266",
+    "category": "escultura-sucata",
+    "src": "/img/port12.jpg",
+    "year": null
+  },
+  {
+    "id": "port2-266",
+    "title": "Obra 267",
+    "category": "escultura-sucata",
+    "src": "/img/port2.jpg",
+    "year": null
+  },
+  {
+    "id": "port3-267",
+    "title": "Obra 268",
+    "category": "escultura-sucata",
+    "src": "/img/port3.jpg",
+    "year": null
+  },
+  {
+    "id": "port4-268",
+    "title": "Obra 269",
+    "category": "escultura-sucata",
+    "src": "/img/port4.jpg",
+    "year": null
+  },
+  {
+    "id": "port5-269",
+    "title": "Obra 270",
+    "category": "escultura-sucata",
+    "src": "/img/port5.jpg",
+    "year": null
+  },
+  {
+    "id": "port6-270",
+    "title": "Obra 271",
+    "category": "escultura-sucata",
+    "src": "/img/port6.jpg",
+    "year": null
+  },
+  {
+    "id": "port7-271",
+    "title": "Obra 272",
+    "category": "escultura-sucata",
+    "src": "/img/port7.jpg",
+    "year": null
+  },
+  {
+    "id": "port8-272",
+    "title": "Obra 273",
+    "category": "escultura-sucata",
+    "src": "/img/port8.jpg",
+    "year": null
+  },
+  {
+    "id": "port9-273",
+    "title": "Obra 274",
+    "category": "escultura-sucata",
+    "src": "/img/port9.jpg",
+    "year": null
+  },
+  {
+    "id": "professorinha-274",
+    "title": "Obra 275",
+    "category": "escultura-sucata",
+    "src": "/img/professorinha.jpg",
+    "year": null
+  },
+  {
+    "id": "quadrinho-275",
+    "title": "Obra 276",
+    "category": "grafite",
+    "src": "/img/quadrinho.jpg",
+    "year": null
+  },
+  {
+    "id": "racismo-276",
+    "title": "Obra 277",
+    "category": "escultura-sucata",
+    "src": "/img/racismo.jpg",
+    "year": null
+  },
+  {
+    "id": "sagit-277",
+    "title": "Obra 278",
+    "category": "zodiaco",
+    "src": "/img/sagit.jpg",
+    "year": null
+  },
+  {
+    "id": "serartista-278",
+    "title": "Obra 279",
+    "category": "pintura",
+    "src": "/img/serArtista.jpg",
+    "year": null
+  },
+  {
+    "id": "sertao-279",
+    "title": "Obra 280",
+    "category": "nordeste",
+    "src": "/img/sertao.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata1-280",
+    "title": "Obra 281",
+    "category": "escultura-sucata",
+    "src": "/img/sucata1.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata10-281",
+    "title": "Obra 282",
+    "category": "escultura-sucata",
+    "src": "/img/sucata10.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata11-282",
+    "title": "Obra 283",
+    "category": "escultura-sucata",
+    "src": "/img/sucata11.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata12-283",
+    "title": "Obra 284",
+    "category": "escultura-sucata",
+    "src": "/img/sucata12.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata2-284",
+    "title": "Obra 285",
+    "category": "escultura-sucata",
+    "src": "/img/sucata2.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata3-285",
+    "title": "Obra 286",
+    "category": "escultura-sucata",
+    "src": "/img/sucata3.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata4-286",
+    "title": "Obra 287",
+    "category": "escultura-sucata",
+    "src": "/img/sucata4.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata5-287",
+    "title": "Obra 288",
+    "category": "escultura-sucata",
+    "src": "/img/sucata5.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata6-288",
+    "title": "Obra 289",
+    "category": "escultura-sucata",
+    "src": "/img/sucata6.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata7-289",
+    "title": "Obra 290",
+    "category": "escultura-sucata",
+    "src": "/img/sucata7.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata8-290",
+    "title": "Obra 291",
+    "category": "escultura-sucata",
+    "src": "/img/sucata8.jpg",
+    "year": null
+  },
+  {
+    "id": "sucata9-291",
+    "title": "Obra 292",
+    "category": "escultura-sucata",
+    "src": "/img/sucata9.jpg",
+    "year": null
+  },
+  {
+    "id": "sucatacomunicacao-292",
+    "title": "Obra 293",
+    "category": "escultura-sucata",
+    "src": "/img/sucataComunicacao.jpg",
+    "year": null
+  },
+  {
+    "id": "tela1-293",
+    "title": "Obra 294",
+    "category": "pintura",
+    "src": "/img/tela1.jpg",
+    "year": null
+  },
+  {
+    "id": "tela2-294",
+    "title": "Obra 295",
+    "category": "pintura",
+    "src": "/img/tela2.jpg",
+    "year": null
+  },
+  {
+    "id": "tela3-295",
+    "title": "Obra 296",
+    "category": "pintura",
+    "src": "/img/tela3.jpg",
+    "year": null
+  },
+  {
+    "id": "tela4-296",
+    "title": "Obra 297",
+    "category": "pintura",
+    "src": "/img/tela4.jpg",
+    "year": null
+  },
+  {
+    "id": "tela5-297",
+    "title": "Obra 298",
+    "category": "pintura",
+    "src": "/img/tela5.jpg",
+    "year": null
+  },
+  {
+    "id": "tela6-298",
+    "title": "Obra 299",
+    "category": "pintura",
+    "src": "/img/tela6.jpg",
+    "year": null
+  },
+  {
+    "id": "tela7-299",
+    "title": "Obra 300",
+    "category": "pintura",
+    "src": "/img/tela7.jpg",
+    "year": null
+  },
+  {
+    "id": "tela8-300",
+    "title": "Obra 301",
+    "category": "pintura",
+    "src": "/img/tela8.jpg",
+    "year": null
+  },
+  {
+    "id": "trocadilho-301",
+    "title": "Obra 302",
+    "category": "pintura",
+    "src": "/img/trocadilho.jpg",
+    "year": null
+  },
+  {
+    "id": "vida-302",
+    "title": "Obra 303",
+    "category": "escultura-sucata",
+    "src": "/img/vida.jpg",
+    "year": null
+  },
+  {
+    "id": "vir-303",
+    "title": "Obra 304",
+    "category": "zodiaco",
+    "src": "/img/vir.jpg",
+    "year": null
+  },
+  {
+    "id": "viverarte-304",
+    "title": "Obra 305",
+    "category": "pintura",
+    "src": "/img/viverArte.jpg",
+    "year": null
+  },
+  {
+    "id": "xadrez-305",
+    "title": "Obra 306",
+    "category": "pintura",
+    "src": "/img/xadrez.jpg",
+    "year": null
+  },
+  {
+    "id": "zika-306",
+    "title": "Obra 307",
+    "category": "escultura-sucata",
+    "src": "/img/zika.jpg",
+    "year": null
+  },
+  {
+    "id": "1-foto-1-307",
+    "title": "Obra 308",
+    "category": "escultura-sucata",
+    "src": "/img/[1]foto (1).jpg",
+    "year": null
+  },
+  {
+    "id": "1-foto-109-308",
+    "title": "Obra 309",
+    "category": "pintura",
+    "src": "/img/[1]foto (109).jpg",
+    "year": null
+  },
+  {
+    "id": "1-foto-3-309",
+    "title": "Obra 310",
+    "category": "acervo",
+    "src": "/img/[1]foto (3).jpg",
+    "year": null
+  },
+  {
+    "id": "1-foto-30-310",
+    "title": "Obra 311",
+    "category": "escultura-sucata",
+    "src": "/img/[1]foto (30).jpg",
+    "year": null
+  },
+  {
+    "id": "dsc0496-2-311",
+    "title": "Obra 312",
+    "category": "escultura-sucata",
+    "src": "/img/_dsc0496 (2).jpg",
+    "year": null
+  }
+]
