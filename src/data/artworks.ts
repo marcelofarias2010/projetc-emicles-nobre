@@ -1,6 +1,5 @@
 import type { CategoryId } from "./categories";
-import generated from "./artworks.generated.json";
-import { categoryOverridesByObraNumber } from "./categoryOverrides";
+import scans from "./gallery-from-img.json";
 
 export type Artwork = {
   id: string;
@@ -11,32 +10,28 @@ export type Artwork = {
   description: string;
 };
 
-const PLACEHOLDER = "Obra de Emicles Nogueira Nobre.";
+const PLACEHOLDER =
+  "Obra de Emicles Nogueira Nobre. Descrição completa será publicada em breve.";
+
+type ScanItem = {
+  id: string;
+  title: string;
+  category: string;
+  src: string;
+  year: number | null;
+};
 
 /**
- * Extrai o número da obra a partir do título "Obra N".
+ * Catálogo principal: obras em public/img/, classificadas pelo nome do arquivo.
  */
-function getObraNumber(title: string): number | null {
-  const match = /^Obra (\d+)$/.exec(title);
-  return match ? Number(match[1]) : null;
-}
-
-/**
- * Catálogo de obras gerado a partir da pasta public/img, com curadoria manual.
- */
-export const artworks: Artwork[] = (generated as Omit<Artwork, "description">[]).map(
-  (item) => {
-    const obraNumber = getObraNumber(item.title);
-    const override =
-      obraNumber !== null ? categoryOverridesByObraNumber[obraNumber] : undefined;
-
-    return {
-      ...item,
-      category: (override ?? item.category) as CategoryId,
-      description: PLACEHOLDER,
-    };
-  },
-);
+export const artworks: Artwork[] = (scans as ScanItem[]).map((item) => ({
+  id: item.id,
+  title: item.title,
+  category: item.category as CategoryId,
+  src: item.src,
+  year: item.year,
+  description: PLACEHOLDER,
+}));
 
 /**
  * Filtra obras por categoria.
@@ -53,14 +48,49 @@ export function getArtworkById(id: string): Artwork | undefined {
   return artworks.find((a) => a.id === id);
 }
 
-/** Imagens de destaque para a home e trajetória */
+/** Imagens de destaque — preferir public/img após o rename */
 export const featured = {
   hero: "/img/sertao.jpg",
   artist: "/img/artista.jpg",
-  painting: "/img/cores1.jpg",
-  clay: "/img/argila.jpg",
-  scrap: "/img/sucata1.jpg",
-  graphite: "/img/grafite.jpg",
-  zodiac: "/img/aries.jpg",
+  painting: "/img/pintura1.jpg",
+  engraving: "/img/grafite.jpg",
+  sculpture: "/img/escultura_bronze.jpg",
+  scrap: "/img/escultura_sucata1.jpg",
+  clay: "/img/escultura_argila1.jpg",
+  concrete: "/img/escultura_concreto.jpg",
+  zodiac: "/img/zodiaco1.jpg",
   pop: "/img/artPop.jpg",
 };
+
+const CONTEMPORARY_TARGET = 60;
+
+/**
+ * Seleciona até 60 obras contemporâneas, equilibrando as modalidades.
+ * Segue o bloco “Apriore” do roteiro do artista.
+ */
+export function getContemporaryArtworks(limit = CONTEMPORARY_TARGET): Artwork[] {
+  const byCategory = new Map<CategoryId, Artwork[]>();
+  for (const artwork of artworks) {
+    const list = byCategory.get(artwork.category) ?? [];
+    list.push(artwork);
+    byCategory.set(artwork.category, list);
+  }
+
+  const buckets = [...byCategory.values()];
+  const selected: Artwork[] = [];
+  let index = 0;
+
+  while (selected.length < limit) {
+    let added = false;
+    for (const bucket of buckets) {
+      if (index < bucket.length && selected.length < limit) {
+        selected.push(bucket[index]);
+        added = true;
+      }
+    }
+    if (!added) break;
+    index += 1;
+  }
+
+  return selected;
+}

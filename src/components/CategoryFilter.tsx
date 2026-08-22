@@ -18,7 +18,7 @@ type Option = {
 };
 
 /**
- * Monta o rótulo visível da categoria selecionada, com a contagem de obras.
+ * Monta o rótulo da categoria selecionada com contagem.
  */
 function getSelectedLabel(value: CategoryFilterValue, counts: Record<string, number>): string {
   if (value === "all") return `Todas (${counts.all ?? 0})`;
@@ -27,7 +27,7 @@ function getSelectedLabel(value: CategoryFilterValue, counts: Record<string, num
 }
 
 /**
- * Filtro de categorias: lista vertical no celular e chips no desktop.
+ * Filtro de modalidades — chips no desktop e lista no mobile.
  */
 export function CategoryFilter({ value, counts, onChange }: Props) {
   const [open, setOpen] = useState(false);
@@ -46,13 +46,8 @@ export function CategoryFilter({ value, counts, onChange }: Props) {
   useEffect(() => {
     if (!open) return;
 
-    /**
-     * Fecha o menu ao clicar fora ou pressionar Escape.
-     */
     function handlePointerDown(event: PointerEvent) {
-      if (!rootRef.current?.contains(event.target as Node)) {
-        setOpen(false);
-      }
+      if (!rootRef.current?.contains(event.target as Node)) setOpen(false);
     }
 
     function handleKeyDown(event: KeyboardEvent) {
@@ -68,7 +63,7 @@ export function CategoryFilter({ value, counts, onChange }: Props) {
   }, [open]);
 
   /**
-   * Aplica a categoria escolhida e recolhe o menu móvel.
+   * Seleciona categoria e fecha o menu móvel.
    */
   function selectCategory(next: CategoryFilterValue) {
     onChange(next);
@@ -78,25 +73,24 @@ export function CategoryFilter({ value, counts, onChange }: Props) {
   return (
     <div
       ref={rootRef}
-      className="sticky top-[4.5rem] z-30 -mx-4 mb-8 border-y border-line/70 bg-[color-mix(in_srgb,var(--bg)_94%,transparent)] px-4 py-3 backdrop-blur-md md:mx-0 md:rounded-sm md:border md:px-3"
+      className="sticky top-[4.5rem] z-30 -mx-4 mb-4 border-y border-[#cfc8bc]/80 bg-[#f7f6f3]/95 px-4 py-3 backdrop-blur-md md:mx-0 md:rounded-sm md:border md:px-3"
     >
       <div className="md:hidden">
-        <p className="mb-2 text-[0.65rem] uppercase tracking-[0.18em] text-ink-muted">
+        <p className="mb-2 text-[0.65rem] uppercase tracking-[0.18em] text-[#5c574f]">
           Explorar categoria
         </p>
         <button
           type="button"
-          className="flex w-full items-center justify-between gap-3 border border-line bg-bg-elevated px-3 py-3 text-left"
+          className="flex w-full items-center justify-between gap-3 border border-[#cfc8bc] bg-white px-3 py-3 text-left"
           aria-expanded={open}
           aria-controls={listId}
           aria-haspopup="listbox"
           onClick={() => setOpen((current) => !current)}
         >
-          <span className="min-w-0 truncate text-sm tracking-wide">{getSelectedLabel(value, counts)}</span>
-          <span
-            className={`shrink-0 text-ink-muted transition-transform duration-200 ${open ? "rotate-180" : ""}`}
-            aria-hidden
-          >
+          <span className="min-w-0 truncate text-sm tracking-wide text-[#1a1714]">
+            {getSelectedLabel(value, counts)}
+          </span>
+          <span className={`shrink-0 text-[#5c574f] ${open ? "rotate-180" : ""}`} aria-hidden>
             ▾
           </span>
         </button>
@@ -106,7 +100,7 @@ export function CategoryFilter({ value, counts, onChange }: Props) {
             id={listId}
             role="listbox"
             aria-label="Categorias da galeria"
-            className="mt-2 max-h-[min(70vh,28rem)] overflow-y-auto border border-line bg-bg-elevated"
+            className="mt-2 max-h-[min(70vh,28rem)] overflow-y-auto border border-[#cfc8bc] bg-white"
           >
             {options.map((option) => {
               const active = option.id === value;
@@ -114,13 +108,15 @@ export function CategoryFilter({ value, counts, onChange }: Props) {
                 <li key={option.id} role="option" aria-selected={active}>
                   <button
                     type="button"
-                    className={`flex w-full items-center justify-between gap-3 border-b border-line px-3 py-3.5 text-left last:border-b-0 ${
-                      active ? "bg-ink text-bg" : "text-ink hover:bg-bg"
+                    className={`flex w-full items-center justify-between gap-3 border-b border-[#cfc8bc] px-3 py-3.5 text-left last:border-b-0 ${
+                      active ? "chip-active w-full" : "chip w-full"
                     }`}
                     onClick={() => selectCategory(option.id)}
                   >
                     <span className="text-sm tracking-wide">{option.label}</span>
-                    <span className={`text-xs tabular-nums ${active ? "text-bg/70" : "text-ink-muted"}`}>
+                    <span
+                      className={`text-xs tabular-nums ${active ? "text-white/70" : "text-[#5c574f]"}`}
+                    >
                       {option.count}
                     </span>
                   </button>
@@ -139,11 +135,7 @@ export function CategoryFilter({ value, counts, onChange }: Props) {
               key={option.id}
               type="button"
               onClick={() => selectCategory(option.id)}
-              className={`border px-3 py-1.5 text-xs tracking-wide transition ${
-                active
-                  ? "border-ink bg-ink text-bg"
-                  : "border-line bg-bg-elevated text-ink-muted hover:border-ink/40 hover:text-ink"
-              }`}
+              className={active ? "chip-active" : "chip"}
             >
               {option.label} ({option.count})
             </button>

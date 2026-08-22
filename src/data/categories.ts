@@ -1,15 +1,14 @@
 /**
- * Categorias de arte usadas na galeria e nos filtros.
+ * Modalidades artísticas alinhadas ao roteiro e aos nomes em public/img/.
  */
 export type CategoryId =
-  | "pintura"
-  | "argila"
-  | "escultura-sucata"
-  | "grafite"
-  | "zodiaco"
-  | "nordeste"
-  | "retratos"
-  | "acervo";
+  | "pinturas"
+  | "gravuras"
+  | "esculturas"
+  | "esculturas-sucata"
+  | "esculturas-argila"
+  | "esculturas-concreto"
+  | "zodiaco";
 
 export type Category = {
   id: CategoryId;
@@ -19,52 +18,46 @@ export type Category = {
 
 export const categories: Category[] = [
   {
-    id: "pintura",
-    label: "Pintura",
+    id: "pinturas",
+    label: "Pinturas",
     description:
-      "Técnicas variadas de pintura em tela — a linguagem mais consolidada do artista.",
+      "Telas e composições em pintura — a linguagem mais consolidada do artista.",
   },
   {
-    id: "argila",
+    id: "gravuras",
+    label: "Gravuras",
+    description:
+      "Gravuras e desenhos de traço denso, com formas orgânicas e simbólicas.",
+  },
+  {
+    id: "esculturas",
+    label: "Esculturas em bronze",
+    description:
+      "Esculturas figurativas e formas em volume, com ênfase no bronze.",
+  },
+  {
+    id: "esculturas-sucata",
+    label: "Esculturas em sucata",
+    description:
+      "Montagens e esculturas em metal reciclado e sucata.",
+  },
+  {
+    id: "esculturas-argila",
     label: "Argila e cerâmica",
     description:
-      "Formas modeladas em argila e cerâmica, parte da produção tridimensional do ateliê.",
+      "Esculturas, jarros e relevos em argila e cerâmica.",
   },
   {
-    id: "escultura-sucata",
-    label: "Escultura e sucata",
+    id: "esculturas-concreto",
+    label: "Esculturas em concreto",
     description:
-      "Esculturas e montagens em sucata e metal reciclado.",
-  },
-  {
-    id: "grafite",
-    label: "Grafite e pontilhismo",
-    description:
-      "Desenho a grafite, pontilhismo e cartum — o traço do desenhista em primeiro plano.",
+      "Formas e volumes trabalhados em concreto.",
   },
   {
     id: "zodiaco",
     label: "Zodíaco",
     description:
-      "Série de relevos e painéis dos signos do zodíaco.",
-  },
-  {
-    id: "nordeste",
-    label: "Nordeste e cultura",
-    description:
-      "A identidade visual do Nordeste, das raízes em Crateús, transparece na cultura popular e no sertão.",
-  },
-  {
-    id: "retratos",
-    label: "Retratos e figuras",
-    description:
-      "Retratos, figuras humanas e séries de rostos.",
-  },
-  {
-    id: "acervo",
-    label: "Acervo fotográfico",
-    description:
-      "Registro fotográfico de obras e momentos da produção no Distrito Federal.",
+      "Série de relevos em metal com os signos e a arquitetura de Brasília.",
   },
 ];
 

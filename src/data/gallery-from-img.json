@@ -1,0 +1,2567 @@
+[
+  {
+    "id": "pinturas-001",
+    "title": "Pintura 1",
+    "category": "pinturas",
+    "src": "/img/pintura19.jpg",
+    "year": null,
+    "page": 1,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-002",
+    "title": "Pintura — ArtPop",
+    "category": "pinturas",
+    "src": "/img/artPop.jpg",
+    "year": null,
+    "page": 2,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-003",
+    "title": "Pintura — Calendar1",
+    "category": "pinturas",
+    "src": "/img/calendar1.jpg",
+    "year": null,
+    "page": 3,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-004",
+    "title": "Pintura — Calendar2",
+    "category": "pinturas",
+    "src": "/img/calendar2.jpg",
+    "year": null,
+    "page": 4,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-005",
+    "title": "Pintura 5",
+    "category": "pinturas",
+    "src": "/img/escultura_sucata20.jpg",
+    "year": null,
+    "page": 5,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-006",
+    "title": "Pintura — Marcelo",
+    "category": "pinturas",
+    "src": "/img/marcelo.jpg",
+    "year": null,
+    "page": 6,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-007",
+    "title": "Pintura 7",
+    "category": "pinturas",
+    "src": "/img/pintura1.jpg",
+    "year": null,
+    "page": 7,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-008",
+    "title": "Pintura 8",
+    "category": "pinturas",
+    "src": "/img/pintura10.jpg",
+    "year": null,
+    "page": 8,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-009",
+    "title": "Pintura 9",
+    "category": "pinturas",
+    "src": "/img/pintura11.jpg",
+    "year": null,
+    "page": 9,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-010",
+    "title": "Pintura 10",
+    "category": "pinturas",
+    "src": "/img/pintura12.jpg",
+    "year": null,
+    "page": 10,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-011",
+    "title": "Pintura 11",
+    "category": "pinturas",
+    "src": "/img/pintura13.jpg",
+    "year": null,
+    "page": 11,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-012",
+    "title": "Pintura 12",
+    "category": "pinturas",
+    "src": "/img/pintura14.jpg",
+    "year": null,
+    "page": 12,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-013",
+    "title": "Pintura 13",
+    "category": "pinturas",
+    "src": "/img/pintura15.jpg",
+    "year": null,
+    "page": 13,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-014",
+    "title": "Pintura 14",
+    "category": "pinturas",
+    "src": "/img/pintura16.jpg",
+    "year": null,
+    "page": 14,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-015",
+    "title": "Pintura 15",
+    "category": "pinturas",
+    "src": "/img/pintura17.jpg",
+    "year": null,
+    "page": 15,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-016",
+    "title": "Pintura 16",
+    "category": "pinturas",
+    "src": "/img/pintura18.jpg",
+    "year": null,
+    "page": 16,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-017",
+    "title": "Pintura 17",
+    "category": "pinturas",
+    "src": "/img/pintura2.jpg",
+    "year": null,
+    "page": 17,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-018",
+    "title": "Pintura 18",
+    "category": "pinturas",
+    "src": "/img/pintura20.jpg",
+    "year": null,
+    "page": 18,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-019",
+    "title": "Pintura 19",
+    "category": "pinturas",
+    "src": "/img/pintura21.jpg",
+    "year": null,
+    "page": 19,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-020",
+    "title": "Pintura 20",
+    "category": "pinturas",
+    "src": "/img/pintura22.jpg",
+    "year": null,
+    "page": 20,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-021",
+    "title": "Pintura 21",
+    "category": "pinturas",
+    "src": "/img/pintura23.jpg",
+    "year": null,
+    "page": 21,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-022",
+    "title": "Pintura 22",
+    "category": "pinturas",
+    "src": "/img/pintura24.jpg",
+    "year": null,
+    "page": 22,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-023",
+    "title": "Pintura 23",
+    "category": "pinturas",
+    "src": "/img/pintura25.jpg",
+    "year": null,
+    "page": 23,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-024",
+    "title": "Pintura 24",
+    "category": "pinturas",
+    "src": "/img/pintura26.jpg",
+    "year": null,
+    "page": 24,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-025",
+    "title": "Pintura 25",
+    "category": "pinturas",
+    "src": "/img/pintura27.jpg",
+    "year": null,
+    "page": 25,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-026",
+    "title": "Pintura 26",
+    "category": "pinturas",
+    "src": "/img/pintura28.jpg",
+    "year": null,
+    "page": 26,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-027",
+    "title": "Pintura 27",
+    "category": "pinturas",
+    "src": "/img/pintura29.jpg",
+    "year": null,
+    "page": 27,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-028",
+    "title": "Pintura 28",
+    "category": "pinturas",
+    "src": "/img/pintura3.jpg",
+    "year": null,
+    "page": 28,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-029",
+    "title": "Pintura 29",
+    "category": "pinturas",
+    "src": "/img/pintura30.jpg",
+    "year": null,
+    "page": 29,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-030",
+    "title": "Pintura 30",
+    "category": "pinturas",
+    "src": "/img/pintura31.jpg",
+    "year": null,
+    "page": 30,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-031",
+    "title": "Pintura 31",
+    "category": "pinturas",
+    "src": "/img/pintura32.jpg",
+    "year": null,
+    "page": 31,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-032",
+    "title": "Pintura 32",
+    "category": "pinturas",
+    "src": "/img/pintura33.jpg",
+    "year": null,
+    "page": 32,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-033",
+    "title": "Pintura 33",
+    "category": "pinturas",
+    "src": "/img/pintura34.jpg",
+    "year": null,
+    "page": 33,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-034",
+    "title": "Pintura 34",
+    "category": "pinturas",
+    "src": "/img/pintura35.jpg",
+    "year": null,
+    "page": 34,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-035",
+    "title": "Pintura 35",
+    "category": "pinturas",
+    "src": "/img/pintura36.jpg",
+    "year": null,
+    "page": 35,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-036",
+    "title": "Pintura 36",
+    "category": "pinturas",
+    "src": "/img/pintura37.jpg",
+    "year": null,
+    "page": 36,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-037",
+    "title": "Pintura 37",
+    "category": "pinturas",
+    "src": "/img/pintura38.jpg",
+    "year": null,
+    "page": 37,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-038",
+    "title": "Pintura 38",
+    "category": "pinturas",
+    "src": "/img/pintura39.jpg",
+    "year": null,
+    "page": 38,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-039",
+    "title": "Pintura 39",
+    "category": "pinturas",
+    "src": "/img/pintura4.jpg",
+    "year": null,
+    "page": 39,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-040",
+    "title": "Pintura 40",
+    "category": "pinturas",
+    "src": "/img/pintura40.jpg",
+    "year": null,
+    "page": 40,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-041",
+    "title": "Pintura 41",
+    "category": "pinturas",
+    "src": "/img/pintura41.jpg",
+    "year": null,
+    "page": 41,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-042",
+    "title": "Pintura 42",
+    "category": "pinturas",
+    "src": "/img/pintura42.jpg",
+    "year": null,
+    "page": 42,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-043",
+    "title": "Pintura 43",
+    "category": "pinturas",
+    "src": "/img/pintura43.jpeg",
+    "year": null,
+    "page": 43,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-044",
+    "title": "Pintura 44",
+    "category": "pinturas",
+    "src": "/img/pintura44.jpg",
+    "year": null,
+    "page": 44,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-045",
+    "title": "Pintura 45",
+    "category": "pinturas",
+    "src": "/img/pintura45.jpeg",
+    "year": null,
+    "page": 45,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-046",
+    "title": "Pintura 46",
+    "category": "pinturas",
+    "src": "/img/pintura47.jpg",
+    "year": null,
+    "page": 46,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-047",
+    "title": "Pintura 47",
+    "category": "pinturas",
+    "src": "/img/pintura48.jpg",
+    "year": null,
+    "page": 47,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-048",
+    "title": "Pintura 48",
+    "category": "pinturas",
+    "src": "/img/pintura49.jpg",
+    "year": null,
+    "page": 48,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-049",
+    "title": "Pintura 49",
+    "category": "pinturas",
+    "src": "/img/pintura5.jpg",
+    "year": null,
+    "page": 49,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-050",
+    "title": "Pintura 50",
+    "category": "pinturas",
+    "src": "/img/pintura50.jpg",
+    "year": null,
+    "page": 50,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-051",
+    "title": "Pintura 51",
+    "category": "pinturas",
+    "src": "/img/pintura51.jpg",
+    "year": null,
+    "page": 51,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-052",
+    "title": "Pintura 52",
+    "category": "pinturas",
+    "src": "/img/pintura52.jpg",
+    "year": null,
+    "page": 52,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-053",
+    "title": "Pintura 53",
+    "category": "pinturas",
+    "src": "/img/pintura53.jpg",
+    "year": null,
+    "page": 53,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-054",
+    "title": "Pintura 54",
+    "category": "pinturas",
+    "src": "/img/pintura54.jpg",
+    "year": null,
+    "page": 54,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-055",
+    "title": "Pintura 55",
+    "category": "pinturas",
+    "src": "/img/pintura55.jpg",
+    "year": null,
+    "page": 55,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-056",
+    "title": "Pintura 56",
+    "category": "pinturas",
+    "src": "/img/pintura56.jpg",
+    "year": null,
+    "page": 56,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-057",
+    "title": "Pintura 57",
+    "category": "pinturas",
+    "src": "/img/pintura57.jpg",
+    "year": null,
+    "page": 57,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-058",
+    "title": "Pintura 58",
+    "category": "pinturas",
+    "src": "/img/pintura58.jpg",
+    "year": null,
+    "page": 58,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-059",
+    "title": "Pintura 59",
+    "category": "pinturas",
+    "src": "/img/pintura59.jpg",
+    "year": null,
+    "page": 59,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-060",
+    "title": "Pintura 60",
+    "category": "pinturas",
+    "src": "/img/pintura6.jpg",
+    "year": null,
+    "page": 60,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-061",
+    "title": "Pintura 61",
+    "category": "pinturas",
+    "src": "/img/pintura60.jpg",
+    "year": null,
+    "page": 61,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-062",
+    "title": "Pintura 62",
+    "category": "pinturas",
+    "src": "/img/pintura61.jpg",
+    "year": null,
+    "page": 62,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-063",
+    "title": "Pintura 63",
+    "category": "pinturas",
+    "src": "/img/pintura62.jpg",
+    "year": null,
+    "page": 63,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-064",
+    "title": "Pintura 64",
+    "category": "pinturas",
+    "src": "/img/pintura63.jpg",
+    "year": null,
+    "page": 64,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-065",
+    "title": "Pintura 65",
+    "category": "pinturas",
+    "src": "/img/pintura64.jpg",
+    "year": null,
+    "page": 65,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-066",
+    "title": "Pintura 66",
+    "category": "pinturas",
+    "src": "/img/pintura65.jpg",
+    "year": null,
+    "page": 66,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-067",
+    "title": "Pintura 67",
+    "category": "pinturas",
+    "src": "/img/pintura66.jpg",
+    "year": null,
+    "page": 67,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-068",
+    "title": "Pintura 68",
+    "category": "pinturas",
+    "src": "/img/pintura67.jpg",
+    "year": null,
+    "page": 68,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-069",
+    "title": "Pintura 69",
+    "category": "pinturas",
+    "src": "/img/pintura68.jpg",
+    "year": null,
+    "page": 69,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-070",
+    "title": "Pintura 70",
+    "category": "pinturas",
+    "src": "/img/pintura69.jpeg",
+    "year": null,
+    "page": 70,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-071",
+    "title": "Pintura 71",
+    "category": "pinturas",
+    "src": "/img/pintura7.jpg",
+    "year": null,
+    "page": 71,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-072",
+    "title": "Pintura 72",
+    "category": "pinturas",
+    "src": "/img/pintura70.jpeg",
+    "year": null,
+    "page": 72,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-073",
+    "title": "Pintura 73",
+    "category": "pinturas",
+    "src": "/img/pintura71.jpeg",
+    "year": null,
+    "page": 73,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-074",
+    "title": "Pintura 74",
+    "category": "pinturas",
+    "src": "/img/pintura72.jpeg",
+    "year": null,
+    "page": 74,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-075",
+    "title": "Pintura 75",
+    "category": "pinturas",
+    "src": "/img/pintura73.jpeg",
+    "year": null,
+    "page": 75,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-076",
+    "title": "Pintura 76",
+    "category": "pinturas",
+    "src": "/img/pintura8.jpg",
+    "year": null,
+    "page": 76,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-077",
+    "title": "Pintura 77",
+    "category": "pinturas",
+    "src": "/img/pintura9.jpg",
+    "year": null,
+    "page": 77,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-078",
+    "title": "Pintura — Liberdade",
+    "category": "pinturas",
+    "src": "/img/pintura_liberdade.jpg",
+    "year": null,
+    "page": 78,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-079",
+    "title": "Pintura — Palhaco4",
+    "category": "pinturas",
+    "src": "/img/pintura_palhaco4.jpg",
+    "year": null,
+    "page": 79,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-080",
+    "title": "Pintura — Palhaco5",
+    "category": "pinturas",
+    "src": "/img/pintura_palhaco5.jpg",
+    "year": null,
+    "page": 80,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-081",
+    "title": "Pintura — Francisco1",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco1.jpg",
+    "year": null,
+    "page": 81,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-082",
+    "title": "Pintura — Francisco10",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco10.jpg",
+    "year": null,
+    "page": 82,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-083",
+    "title": "Pintura — Francisco11",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco11.jpg",
+    "year": null,
+    "page": 83,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-084",
+    "title": "Pintura — Francisco12",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco12.jpg",
+    "year": null,
+    "page": 84,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-085",
+    "title": "Pintura — Francisco2",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco2.jpg",
+    "year": null,
+    "page": 85,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-086",
+    "title": "Pintura — Francisco3",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco3.jpg",
+    "year": null,
+    "page": 86,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-087",
+    "title": "Pintura — Francisco4",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco4.jpg",
+    "year": null,
+    "page": 87,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-088",
+    "title": "Pintura — Francisco5",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco5.jpg",
+    "year": null,
+    "page": 88,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-089",
+    "title": "Pintura — Francisco6",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco6.jpg",
+    "year": null,
+    "page": 89,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-090",
+    "title": "Pintura — Francisco8",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco8.jpg",
+    "year": null,
+    "page": 90,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-091",
+    "title": "Pintura — Francisco9",
+    "category": "pinturas",
+    "src": "/img/pinturafrancisco9.jpg",
+    "year": null,
+    "page": 91,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-092",
+    "title": "Pintura — Justica1",
+    "category": "pinturas",
+    "src": "/img/pinturajustica1.jpg",
+    "year": null,
+    "page": 92,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-093",
+    "title": "Pintura — Justica2",
+    "category": "pinturas",
+    "src": "/img/pinturajustica2.jpg",
+    "year": null,
+    "page": 93,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-094",
+    "title": "Pintura — Justica3",
+    "category": "pinturas",
+    "src": "/img/pinturajustica3.jpg",
+    "year": null,
+    "page": 94,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-095",
+    "title": "Pintura — Justica4",
+    "category": "pinturas",
+    "src": "/img/pinturajustica4.jpg",
+    "year": null,
+    "page": 95,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-096",
+    "title": "Pintura — Justica5",
+    "category": "pinturas",
+    "src": "/img/pinturajustica5.jpg",
+    "year": null,
+    "page": 96,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-097",
+    "title": "Pintura — Justica6",
+    "category": "pinturas",
+    "src": "/img/pinturajustica6.jpg",
+    "year": null,
+    "page": 97,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-098",
+    "title": "Pintura — Justy",
+    "category": "pinturas",
+    "src": "/img/pinturajusty.jpg",
+    "year": null,
+    "page": 98,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-099",
+    "title": "Pintura — Justy2",
+    "category": "pinturas",
+    "src": "/img/pinturajusty2.jpg",
+    "year": null,
+    "page": 99,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-100",
+    "title": "Pintura — Palhaco1",
+    "category": "pinturas",
+    "src": "/img/pinturapalhaco1.jpg",
+    "year": null,
+    "page": 100,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-101",
+    "title": "Pintura — Palhaco2",
+    "category": "pinturas",
+    "src": "/img/pinturapalhaco2.jpeg",
+    "year": null,
+    "page": 101,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-102",
+    "title": "Pintura — Palhaco3",
+    "category": "pinturas",
+    "src": "/img/pinturapalhaco3.jpg",
+    "year": null,
+    "page": 102,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-103",
+    "title": "Pintura — Poeta",
+    "category": "pinturas",
+    "src": "/img/pinturapoeta.jpg",
+    "year": null,
+    "page": 103,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-104",
+    "title": "Pintura — Quadro",
+    "category": "pinturas",
+    "src": "/img/quadro.jpeg",
+    "year": null,
+    "page": 104,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-105",
+    "title": "Pintura — SerArtista",
+    "category": "pinturas",
+    "src": "/img/serArtista.jpg",
+    "year": null,
+    "page": 105,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-106",
+    "title": "Pintura — Sertao",
+    "category": "pinturas",
+    "src": "/img/sertao.jpg",
+    "year": null,
+    "page": 106,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-107",
+    "title": "Pintura 107",
+    "category": "pinturas",
+    "src": "/img/tela1.jpg",
+    "year": null,
+    "page": 107,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-108",
+    "title": "Pintura 108",
+    "category": "pinturas",
+    "src": "/img/tela2.jpg",
+    "year": null,
+    "page": 108,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-109",
+    "title": "Pintura 109",
+    "category": "pinturas",
+    "src": "/img/tela3.jpg",
+    "year": null,
+    "page": 109,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-110",
+    "title": "Pintura 110",
+    "category": "pinturas",
+    "src": "/img/tela4.jpg",
+    "year": null,
+    "page": 110,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-111",
+    "title": "Pintura 111",
+    "category": "pinturas",
+    "src": "/img/tela5.jpg",
+    "year": null,
+    "page": 111,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-112",
+    "title": "Pintura 112",
+    "category": "pinturas",
+    "src": "/img/tela6.jpg",
+    "year": null,
+    "page": 112,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-113",
+    "title": "Pintura 113",
+    "category": "pinturas",
+    "src": "/img/tela7.jpg",
+    "year": null,
+    "page": 113,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-114",
+    "title": "Pintura 114",
+    "category": "pinturas",
+    "src": "/img/tela8.jpg",
+    "year": null,
+    "page": 114,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-115",
+    "title": "Pintura — ViverArte",
+    "category": "pinturas",
+    "src": "/img/viverArte.jpg",
+    "year": null,
+    "page": 115,
+    "source": "public/img"
+  },
+  {
+    "id": "pinturas-116",
+    "title": "Pintura — Xadrez",
+    "category": "pinturas",
+    "src": "/img/xadrez.jpg",
+    "year": null,
+    "page": 116,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-001",
+    "title": "Gravura 1",
+    "category": "gravuras",
+    "src": "/img/grafit1.jpg",
+    "year": null,
+    "page": 1,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-002",
+    "title": "Gravura 2",
+    "category": "gravuras",
+    "src": "/img/grafit10.jpg",
+    "year": null,
+    "page": 2,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-003",
+    "title": "Gravura 3",
+    "category": "gravuras",
+    "src": "/img/grafit2.jpg",
+    "year": null,
+    "page": 3,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-004",
+    "title": "Gravura 4",
+    "category": "gravuras",
+    "src": "/img/grafit3.jpg",
+    "year": null,
+    "page": 4,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-005",
+    "title": "Gravura 5",
+    "category": "gravuras",
+    "src": "/img/grafit5.jpg",
+    "year": null,
+    "page": 5,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-006",
+    "title": "Gravura 6",
+    "category": "gravuras",
+    "src": "/img/grafit7.jpg",
+    "year": null,
+    "page": 6,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-007",
+    "title": "Gravura 7",
+    "category": "gravuras",
+    "src": "/img/grafit8.jpg",
+    "year": null,
+    "page": 7,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-008",
+    "title": "Gravura 8",
+    "category": "gravuras",
+    "src": "/img/grafit9.jpg",
+    "year": null,
+    "page": 8,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-009",
+    "title": "Gravura — e",
+    "category": "gravuras",
+    "src": "/img/grafite.jpg",
+    "year": null,
+    "page": 9,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-010",
+    "title": "Gravura 10",
+    "category": "gravuras",
+    "src": "/img/gravura1.jpg",
+    "year": null,
+    "page": 10,
+    "source": "public/img"
+  },
+  {
+    "id": "gravuras-011",
+    "title": "Gravura — Quadrinho",
+    "category": "gravuras",
+    "src": "/img/quadrinho.jpg",
+    "year": null,
+    "page": 11,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-001",
+    "title": "Bronze 1",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze30.JPG",
+    "year": null,
+    "page": 1,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-002",
+    "title": "Bronze 2",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze14.jpg",
+    "year": null,
+    "page": 2,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-003",
+    "title": "Bronze — Bronze2",
+    "category": "esculturas",
+    "src": "/img/escultira_bronze2.jpg",
+    "year": null,
+    "page": 3,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-004",
+    "title": "Bronze 4",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze.jpg",
+    "year": null,
+    "page": 4,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-005",
+    "title": "Bronze 5",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze10.jpg",
+    "year": null,
+    "page": 5,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-006",
+    "title": "Bronze 6",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze11.jpg",
+    "year": null,
+    "page": 6,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-007",
+    "title": "Bronze 7",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze12.jpg",
+    "year": null,
+    "page": 7,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-008",
+    "title": "Bronze 8",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze13.jpg",
+    "year": null,
+    "page": 8,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-009",
+    "title": "Bronze 9",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze15.jpg",
+    "year": null,
+    "page": 9,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-010",
+    "title": "Bronze 10",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze16.jpg",
+    "year": null,
+    "page": 10,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-011",
+    "title": "Bronze 11",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze17.jpg",
+    "year": null,
+    "page": 11,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-012",
+    "title": "Bronze 12",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze18.jpg",
+    "year": null,
+    "page": 12,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-013",
+    "title": "Bronze 13",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze19.jpg",
+    "year": null,
+    "page": 13,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-014",
+    "title": "Bronze 14",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze20.jpg",
+    "year": null,
+    "page": 14,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-015",
+    "title": "Bronze 15",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze21.jpg",
+    "year": null,
+    "page": 15,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-016",
+    "title": "Bronze 16",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze22.jpg",
+    "year": null,
+    "page": 16,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-017",
+    "title": "Bronze 17",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze23.jpg",
+    "year": null,
+    "page": 17,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-018",
+    "title": "Bronze 18",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze24.JPG",
+    "year": null,
+    "page": 18,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-019",
+    "title": "Bronze 19",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze25.JPG",
+    "year": null,
+    "page": 19,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-020",
+    "title": "Bronze 20",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze26.JPG",
+    "year": null,
+    "page": 20,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-021",
+    "title": "Bronze 21",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze28.JPG",
+    "year": null,
+    "page": 21,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-022",
+    "title": "Bronze 22",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze29.JPG",
+    "year": null,
+    "page": 22,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-023",
+    "title": "Bronze 23",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze3.jpg",
+    "year": null,
+    "page": 23,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-024",
+    "title": "Bronze 24",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze31.JPG",
+    "year": null,
+    "page": 24,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-025",
+    "title": "Bronze 25",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze32.JPG",
+    "year": null,
+    "page": 25,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-026",
+    "title": "Bronze 26",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze33.JPG",
+    "year": null,
+    "page": 26,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-027",
+    "title": "Bronze 27",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze34.JPG",
+    "year": null,
+    "page": 27,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-028",
+    "title": "Bronze 28",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze4.jpg",
+    "year": null,
+    "page": 28,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-029",
+    "title": "Bronze 29",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze5.jpg",
+    "year": null,
+    "page": 29,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-030",
+    "title": "Bronze 30",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze6.jpg",
+    "year": null,
+    "page": 30,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-031",
+    "title": "Bronze 31",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze7.jpg",
+    "year": null,
+    "page": 31,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-032",
+    "title": "Bronze 32",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze8.jpg",
+    "year": null,
+    "page": 32,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-033",
+    "title": "Bronze 33",
+    "category": "esculturas",
+    "src": "/img/escultura_bronze9.jpg",
+    "year": null,
+    "page": 33,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-034",
+    "title": "Bronze — A Bronze27",
+    "category": "esculturas",
+    "src": "/img/esculturaa_bronze27.JPG",
+    "year": null,
+    "page": 34,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-001",
+    "title": "Sucata 1",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata1.jpg",
+    "year": null,
+    "page": 1,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-002",
+    "title": "Sucata 2",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata10.jpg",
+    "year": null,
+    "page": 2,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-003",
+    "title": "Sucata 3",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata11.jpg",
+    "year": null,
+    "page": 3,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-004",
+    "title": "Sucata 4",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata12.jpg",
+    "year": null,
+    "page": 4,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-005",
+    "title": "Sucata 5",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata13.jpg",
+    "year": null,
+    "page": 5,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-006",
+    "title": "Sucata 6",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata14.jpg",
+    "year": null,
+    "page": 6,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-007",
+    "title": "Sucata 7",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata15.jpg",
+    "year": null,
+    "page": 7,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-008",
+    "title": "Sucata 8",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata16.jpg",
+    "year": null,
+    "page": 8,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-009",
+    "title": "Sucata 9",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata17.jpg",
+    "year": null,
+    "page": 9,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-010",
+    "title": "Sucata 10",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata18.jpg",
+    "year": null,
+    "page": 10,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-011",
+    "title": "Sucata 11",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata19.jpg",
+    "year": null,
+    "page": 11,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-012",
+    "title": "Sucata 12",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata2.jpg",
+    "year": null,
+    "page": 12,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-013",
+    "title": "Sucata 13",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata21.jpg",
+    "year": null,
+    "page": 13,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-014",
+    "title": "Sucata 14",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata22.jpg",
+    "year": null,
+    "page": 14,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-015",
+    "title": "Sucata 15",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata23.jpg",
+    "year": null,
+    "page": 15,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-016",
+    "title": "Sucata 16",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata24.jpg",
+    "year": null,
+    "page": 16,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-017",
+    "title": "Sucata 17",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata25.jpg",
+    "year": null,
+    "page": 17,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-018",
+    "title": "Sucata 18",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata26.jpg",
+    "year": null,
+    "page": 18,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-019",
+    "title": "Sucata 19",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata3.jpg",
+    "year": null,
+    "page": 19,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-020",
+    "title": "Sucata 20",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata4.jpg",
+    "year": null,
+    "page": 20,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-021",
+    "title": "Sucata 21",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata5.jpg",
+    "year": null,
+    "page": 21,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-022",
+    "title": "Sucata 22",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata6.jpg",
+    "year": null,
+    "page": 22,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-023",
+    "title": "Sucata 23",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata7.jpg",
+    "year": null,
+    "page": 23,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-024",
+    "title": "Sucata 24",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata8.jpg",
+    "year": null,
+    "page": 24,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-025",
+    "title": "Sucata 25",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata9.jpg",
+    "year": null,
+    "page": 25,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-026",
+    "title": "Sucata — Mascaras",
+    "category": "esculturas-sucata",
+    "src": "/img/escultura_sucata_mascaras.jpg",
+    "year": null,
+    "page": 26,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-027",
+    "title": "Sucata — MalucoBeleza",
+    "category": "esculturas-sucata",
+    "src": "/img/malucoBeleza.jpg",
+    "year": null,
+    "page": 27,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-028",
+    "title": "Sucata — Nobre2",
+    "category": "esculturas-sucata",
+    "src": "/img/nobre2.jpg",
+    "year": null,
+    "page": 28,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-029",
+    "title": "Sucata — Palhaco",
+    "category": "esculturas-sucata",
+    "src": "/img/palhaco.jpg",
+    "year": null,
+    "page": 29,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-030",
+    "title": "Sucata 30",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata1.jpg",
+    "year": null,
+    "page": 30,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-031",
+    "title": "Sucata 31",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata10.jpg",
+    "year": null,
+    "page": 31,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-032",
+    "title": "Sucata 32",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata11.jpg",
+    "year": null,
+    "page": 32,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-033",
+    "title": "Sucata 33",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata12.jpg",
+    "year": null,
+    "page": 33,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-034",
+    "title": "Sucata 34",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata2.jpg",
+    "year": null,
+    "page": 34,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-035",
+    "title": "Sucata 35",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata3.jpg",
+    "year": null,
+    "page": 35,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-036",
+    "title": "Sucata 36",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata4.jpg",
+    "year": null,
+    "page": 36,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-037",
+    "title": "Sucata 37",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata5.jpg",
+    "year": null,
+    "page": 37,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-038",
+    "title": "Sucata 38",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata6.jpg",
+    "year": null,
+    "page": 38,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-039",
+    "title": "Sucata 39",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata7.jpg",
+    "year": null,
+    "page": 39,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-040",
+    "title": "Sucata 40",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata8.jpg",
+    "year": null,
+    "page": 40,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-041",
+    "title": "Sucata 41",
+    "category": "esculturas-sucata",
+    "src": "/img/sucata9.jpg",
+    "year": null,
+    "page": 41,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-042",
+    "title": "Sucata — Comunicacao",
+    "category": "esculturas-sucata",
+    "src": "/img/sucataComunicacao.jpg",
+    "year": null,
+    "page": 42,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-sucata-043",
+    "title": "Sucata — Zika",
+    "category": "esculturas-sucata",
+    "src": "/img/zika.jpg",
+    "year": null,
+    "page": 43,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-001",
+    "title": "Argila — DoisPalhacos",
+    "category": "esculturas-argila",
+    "src": "/img/doisPalhacos.jpg",
+    "year": null,
+    "page": 1,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-002",
+    "title": "Argila 2",
+    "category": "esculturas-argila",
+    "src": "/img/escultura.jpg",
+    "year": null,
+    "page": 2,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-003",
+    "title": "Argila 3",
+    "category": "esculturas-argila",
+    "src": "/img/escultura_argila1.jpg",
+    "year": null,
+    "page": 3,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-004",
+    "title": "Argila 4",
+    "category": "esculturas-argila",
+    "src": "/img/escultura_argila2.jpg",
+    "year": null,
+    "page": 4,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-005",
+    "title": "Argila 5",
+    "category": "esculturas-argila",
+    "src": "/img/escultura_argila3.jpg",
+    "year": null,
+    "page": 5,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-006",
+    "title": "Argila 6",
+    "category": "esculturas-argila",
+    "src": "/img/escultura_argila4.jpg",
+    "year": null,
+    "page": 6,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-007",
+    "title": "Argila 7",
+    "category": "esculturas-argila",
+    "src": "/img/escultura_argila5.jpg",
+    "year": null,
+    "page": 7,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-008",
+    "title": "Argila 8",
+    "category": "esculturas-argila",
+    "src": "/img/escultura_argila6.jpg",
+    "year": null,
+    "page": 8,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-009",
+    "title": "Argila 9",
+    "category": "esculturas-argila",
+    "src": "/img/escultura_argila7.jpg",
+    "year": null,
+    "page": 9,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-010",
+    "title": "Argila — Jarro",
+    "category": "esculturas-argila",
+    "src": "/img/jarro.jpg",
+    "year": null,
+    "page": 10,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-011",
+    "title": "Argila 11",
+    "category": "esculturas-argila",
+    "src": "/img/jarro_argila1.jpg",
+    "year": null,
+    "page": 11,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-012",
+    "title": "Argila — JarroArgila",
+    "category": "esculturas-argila",
+    "src": "/img/jarroArgila.jpg",
+    "year": null,
+    "page": 12,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-013",
+    "title": "Argila — JarroPassaro",
+    "category": "esculturas-argila",
+    "src": "/img/jarroPassaro.jpg",
+    "year": null,
+    "page": 13,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-014",
+    "title": "Argila — Mandala",
+    "category": "esculturas-argila",
+    "src": "/img/mandala.jpg",
+    "year": null,
+    "page": 14,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-015",
+    "title": "Argila — MaosLimpas",
+    "category": "esculturas-argila",
+    "src": "/img/maosLimpas.jpg",
+    "year": null,
+    "page": 15,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-016",
+    "title": "Argila — Moranga",
+    "category": "esculturas-argila",
+    "src": "/img/moranga.jpg",
+    "year": null,
+    "page": 16,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-017",
+    "title": "Argila — Nobre3",
+    "category": "esculturas-argila",
+    "src": "/img/nobre3.jpg",
+    "year": null,
+    "page": 17,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-018",
+    "title": "Argila — Perfeicao",
+    "category": "esculturas-argila",
+    "src": "/img/perfeicao.jpg",
+    "year": null,
+    "page": 18,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-019",
+    "title": "Argila 19",
+    "category": "esculturas-argila",
+    "src": "/img/quador_argila2.jpg",
+    "year": null,
+    "page": 19,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-020",
+    "title": "Argila 20",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila1.jpg",
+    "year": null,
+    "page": 20,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-021",
+    "title": "Argila 21",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila10.jpg",
+    "year": null,
+    "page": 21,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-022",
+    "title": "Argila 22",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila11.jpg",
+    "year": null,
+    "page": 22,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-023",
+    "title": "Argila 23",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila12.jpg",
+    "year": null,
+    "page": 23,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-024",
+    "title": "Argila 24",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila13.jpg",
+    "year": null,
+    "page": 24,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-025",
+    "title": "Argila 25",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila3.jpg",
+    "year": null,
+    "page": 25,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-026",
+    "title": "Argila 26",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila4.jpg",
+    "year": null,
+    "page": 26,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-027",
+    "title": "Argila 27",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila5.jpg",
+    "year": null,
+    "page": 27,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-028",
+    "title": "Argila 28",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila6.jpg",
+    "year": null,
+    "page": 28,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-029",
+    "title": "Argila 29",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila7.jpg",
+    "year": null,
+    "page": 29,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-030",
+    "title": "Argila 30",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila8.jpg",
+    "year": null,
+    "page": 30,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-argila-031",
+    "title": "Argila 31",
+    "category": "esculturas-argila",
+    "src": "/img/quadro_argila9.jpg",
+    "year": null,
+    "page": 31,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-001",
+    "title": "Concreto — Caatinga",
+    "category": "esculturas-concreto",
+    "src": "/img/caatinga.jpg",
+    "year": null,
+    "page": 1,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-002",
+    "title": "Concreto 2",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto.jpg",
+    "year": null,
+    "page": 2,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-003",
+    "title": "Concreto 3",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto1.jpg",
+    "year": null,
+    "page": 3,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-004",
+    "title": "Concreto 4",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto10.jpg",
+    "year": null,
+    "page": 4,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-005",
+    "title": "Concreto 5",
+    "category": "esculturas-concreto",
+    "src": "/img/Escultura_concreto11.jpg",
+    "year": null,
+    "page": 5,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-006",
+    "title": "Concreto 6",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto12.jpg",
+    "year": null,
+    "page": 6,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-007",
+    "title": "Concreto 7",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto13.jpg",
+    "year": null,
+    "page": 7,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-008",
+    "title": "Concreto 8",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto14.jpg",
+    "year": null,
+    "page": 8,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-009",
+    "title": "Concreto 9",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto15.jpg",
+    "year": null,
+    "page": 9,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-010",
+    "title": "Concreto 10",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto16.jpg",
+    "year": null,
+    "page": 10,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-011",
+    "title": "Concreto 11",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto17.jpg",
+    "year": null,
+    "page": 11,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-012",
+    "title": "Concreto 12",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto2.jpg",
+    "year": null,
+    "page": 12,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-013",
+    "title": "Concreto 13",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto3.jpg",
+    "year": null,
+    "page": 13,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-014",
+    "title": "Concreto 14",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto4.jpg",
+    "year": null,
+    "page": 14,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-015",
+    "title": "Concreto 15",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto5.jpg",
+    "year": null,
+    "page": 15,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-016",
+    "title": "Concreto 16",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto6.jpg",
+    "year": null,
+    "page": 16,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-017",
+    "title": "Concreto 17",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto7.jpg",
+    "year": null,
+    "page": 17,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-018",
+    "title": "Concreto 18",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto8.jpg",
+    "year": null,
+    "page": 18,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-019",
+    "title": "Concreto 19",
+    "category": "esculturas-concreto",
+    "src": "/img/escultura_concreto9.jpg",
+    "year": null,
+    "page": 19,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-020",
+    "title": "Concreto — Fundos",
+    "category": "esculturas-concreto",
+    "src": "/img/fundos.jpg",
+    "year": null,
+    "page": 20,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-021",
+    "title": "Concreto — Passaro",
+    "category": "esculturas-concreto",
+    "src": "/img/passaro.jpg",
+    "year": null,
+    "page": 21,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-022",
+    "title": "Concreto — Pescadores",
+    "category": "esculturas-concreto",
+    "src": "/img/pescadores.jpg",
+    "year": null,
+    "page": 22,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-023",
+    "title": "Concreto 23",
+    "category": "esculturas-concreto",
+    "src": "/img/pintura46.jpg",
+    "year": null,
+    "page": 23,
+    "source": "public/img"
+  },
+  {
+    "id": "esculturas-concreto-024",
+    "title": "Concreto — Vida",
+    "category": "esculturas-concreto",
+    "src": "/img/vida.jpg",
+    "year": null,
+    "page": 24,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-001",
+    "title": "Zodíaco — Vir",
+    "category": "zodiaco",
+    "src": "/img/vir.jpg",
+    "year": null,
+    "page": 1,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-002",
+    "title": "Zodíaco 2",
+    "category": "zodiaco",
+    "src": "/img/zodia11.jpg",
+    "year": null,
+    "page": 2,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-003",
+    "title": "Zodíaco 3",
+    "category": "zodiaco",
+    "src": "/img/zodiaco1.jpg",
+    "year": null,
+    "page": 3,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-004",
+    "title": "Zodíaco 4",
+    "category": "zodiaco",
+    "src": "/img/zodiaco10.jpg",
+    "year": null,
+    "page": 4,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-005",
+    "title": "Zodíaco 5",
+    "category": "zodiaco",
+    "src": "/img/zodiaco11.jpg",
+    "year": null,
+    "page": 5,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-006",
+    "title": "Zodíaco 6",
+    "category": "zodiaco",
+    "src": "/img/zodiaco12.jpg",
+    "year": null,
+    "page": 6,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-007",
+    "title": "Zodíaco 7",
+    "category": "zodiaco",
+    "src": "/img/zodiaco13.jpg",
+    "year": null,
+    "page": 7,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-008",
+    "title": "Zodíaco 8",
+    "category": "zodiaco",
+    "src": "/img/zodiaco14.jpg",
+    "year": null,
+    "page": 8,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-009",
+    "title": "Zodíaco 9",
+    "category": "zodiaco",
+    "src": "/img/zodiaco15.jpg",
+    "year": null,
+    "page": 9,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-010",
+    "title": "Zodíaco 10",
+    "category": "zodiaco",
+    "src": "/img/zodiaco16.jpg",
+    "year": null,
+    "page": 10,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-011",
+    "title": "Zodíaco 11",
+    "category": "zodiaco",
+    "src": "/img/zodiaco17.jpg",
+    "year": null,
+    "page": 11,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-012",
+    "title": "Zodíaco — 2 2",
+    "category": "zodiaco",
+    "src": "/img/zodiaco2.2.jpg",
+    "year": null,
+    "page": 12,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-013",
+    "title": "Zodíaco 13",
+    "category": "zodiaco",
+    "src": "/img/zodiaco2.jpg",
+    "year": null,
+    "page": 13,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-014",
+    "title": "Zodíaco 14",
+    "category": "zodiaco",
+    "src": "/img/zodiaco3.jpg",
+    "year": null,
+    "page": 14,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-015",
+    "title": "Zodíaco 15",
+    "category": "zodiaco",
+    "src": "/img/zodiaco4.jpg",
+    "year": null,
+    "page": 15,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-016",
+    "title": "Zodíaco 16",
+    "category": "zodiaco",
+    "src": "/img/zodiaco5.jpg",
+    "year": null,
+    "page": 16,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-017",
+    "title": "Zodíaco 17",
+    "category": "zodiaco",
+    "src": "/img/zodiaco6.jpg",
+    "year": null,
+    "page": 17,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-018",
+    "title": "Zodíaco 18",
+    "category": "zodiaco",
+    "src": "/img/zodiaco7.jpg",
+    "year": null,
+    "page": 18,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-019",
+    "title": "Zodíaco 19",
+    "category": "zodiaco",
+    "src": "/img/zodiaco8.jpg",
+    "year": null,
+    "page": 19,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-020",
+    "title": "Zodíaco 20",
+    "category": "zodiaco",
+    "src": "/img/zodiaco9.jpg",
+    "year": null,
+    "page": 20,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-021",
+    "title": "Zodíaco — Peixe",
+    "category": "zodiaco",
+    "src": "/img/zodiaco_peixe.jpg",
+    "year": null,
+    "page": 21,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-022",
+    "title": "Zodíaco — Gemeos",
+    "category": "zodiaco",
+    "src": "/img/zodiacogemeos.jpg",
+    "year": null,
+    "page": 22,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-023",
+    "title": "Zodíaco — Leao",
+    "category": "zodiaco",
+    "src": "/img/zodiacoleao.jpg",
+    "year": null,
+    "page": 23,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-024",
+    "title": "Zodíaco — Libra",
+    "category": "zodiaco",
+    "src": "/img/zodiacolibra.jpg",
+    "year": null,
+    "page": 24,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-025",
+    "title": "Zodíaco — S",
+    "category": "zodiaco",
+    "src": "/img/zodiacos.jpg",
+    "year": null,
+    "page": 25,
+    "source": "public/img"
+  },
+  {
+    "id": "zodiaco-026",
+    "title": "Zodíaco — Sagitario",
+    "category": "zodiaco",
+    "src": "/img/zodiacosagitario.jpg",
+    "year": null,
+    "page": 26,
+    "source": "public/img"
+  }
+]

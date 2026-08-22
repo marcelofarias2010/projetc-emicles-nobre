@@ -30,6 +30,11 @@ export function SiteFooter() {
               </Link>
             </li>
             <li>
+              <Link href="/galeria?destaque=contemporaneas" className="hover:text-white">
+                Obras contemporâneas
+              </Link>
+            </li>
+            <li>
               <Link href="/trajetoria" className="hover:text-white">
                 Trajetória
               </Link>

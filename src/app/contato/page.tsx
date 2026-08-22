@@ -64,7 +64,7 @@ export default function ContatoPage() {
           </div>
           <button
             type="button"
-            className="bg-ink px-5 py-3 text-sm text-bg transition hover:bg-copper"
+            className="bg-[#1a1714] px-5 py-3 text-sm text-white transition hover:bg-[#a65d3b]"
           >
             Enviar (em breve)
           </button>
@@ -74,6 +74,27 @@ export default function ContatoPage() {
         </form>
 
         <div className="space-y-8">
+          <div>
+            <h2
+              className="text-2xl"
+              style={{ fontFamily: "var(--font-display), serif" }}
+            >
+              Contato direto
+            </h2>
+            <p className="mt-3 text-ink-muted">
+              <a
+                className="underline-offset-4 hover:text-ink hover:underline"
+                href={`mailto:${biography.email}`}
+              >
+                {biography.email}
+              </a>
+            </p>
+            <p className="mt-3 max-w-md text-sm text-ink-muted">
+              {biography.residence}. Aos {biography.age} anos, o artista mantém a
+              conexão com a arte e com a memória cultural de décadas de produção.
+            </p>
+          </div>
+
           <div>
             <h2
               className="text-2xl"
@@ -113,21 +134,6 @@ export default function ContatoPage() {
                 </a>
               </li>
             </ul>
-          </div>
-
-          <div>
-            <h2
-              className="text-2xl"
-              style={{ fontFamily: "var(--font-display), serif" }}
-            >
-              Residência
-            </h2>
-            <p className="mt-3 max-w-md text-ink-muted">{biography.residence}</p>
-            <p className="mt-3 max-w-md text-sm text-ink-muted">
-              Aos {biography.age} anos, o artista mantém daqui a conexão com a
-              arte e com a memória cultural das décadas de produção no Distrito
-              Federal e no Brasil.
-            </p>
           </div>
         </div>
       </div>

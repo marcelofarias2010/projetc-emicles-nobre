@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useMemo, useState } from "react";
 import type { Artwork } from "@/data/artworks";
 import { categories, type CategoryId } from "@/data/categories";
@@ -15,7 +14,7 @@ type Props = {
 };
 
 /**
- * Grade de galeria com filtros por categoria e abertura em lightbox.
+ * Grade de galeria com filtros por categoria e lightbox.
  */
 export function GalleryGrid({
   artworks,
@@ -40,10 +39,18 @@ export function GalleryGrid({
     return map;
   }, [artworks]);
 
+  /**
+   * Filtra a grade pela modalidade escolhida.
+   */
+  function handleCategoryChange(next: CategoryId | "all") {
+    setCategory(next);
+    setActiveIndex(null);
+  }
+
   return (
     <div>
       {showFilters && (
-        <CategoryFilter value={category} counts={counts} onChange={setCategory} />
+        <CategoryFilter value={category} counts={counts} onChange={handleCategoryChange} />
       )}
 
       <div className="columns-1 gap-4 sm:columns-2 lg:columns-3">
@@ -54,15 +61,13 @@ export function GalleryGrid({
             className="group mb-4 block w-full break-inside-avoid text-left"
             onClick={() => setActiveIndex(index)}
           >
-            <span className="relative block overflow-hidden bg-line/40">
-              <Image
-                src={encodeURI(artwork.src)}
+            <span className="relative block overflow-hidden bg-[#cfc8bc]/40">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={artwork.src}
                 alt={artwork.title}
-                width={800}
-                height={1000}
                 className="h-auto w-full object-cover transition duration-500 group-hover:scale-[1.02]"
-                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                unoptimized
+                loading="lazy"
               />
             </span>
             <span className="mt-2 flex items-baseline justify-between gap-3">
@@ -72,7 +77,7 @@ export function GalleryGrid({
               >
                 {artwork.title}
               </span>
-              <span className="shrink-0 text-[0.65rem] uppercase tracking-[0.16em] text-ink-muted">
+              <span className="shrink-0 text-[0.65rem] uppercase tracking-[0.16em] text-[#5c574f]">
                 {categories.find((c) => c.id === artwork.category)?.label}
               </span>
             </span>
@@ -81,9 +86,7 @@ export function GalleryGrid({
       </div>
 
       {filtered.length === 0 && (
-        <p className="py-16 text-center text-ink-muted">
-          Nenhuma obra nesta categoria.
-        </p>
+        <p className="py-12 text-center text-[#5c574f]">Nenhuma obra nesta categoria.</p>
       )}
 
       <ArtworkLightbox
