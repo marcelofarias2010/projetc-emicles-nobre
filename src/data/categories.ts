@@ -1,63 +1,73 @@
 /**
- * Modalidades artísticas alinhadas ao roteiro e aos nomes em public/img/.
+ * Modalidades oficiais — pastas em public/modalidades/.
+ * (carrousel/ e abertura/ são apoio visual, não filtros da galeria.)
  */
 export type CategoryId =
-  | "pinturas"
-  | "gravuras"
-  | "esculturas"
-  | "esculturas-sucata"
-  | "esculturas-argila"
-  | "esculturas-concreto"
-  | "zodiaco";
+  | "pintura"
+  | "desenho"
+  | "bronze"
+  | "escultura"
+  | "concreto"
+  | "cobre"
+  | "sucata"
+  | "signos";
 
 export type Category = {
   id: CategoryId;
   label: string;
+  /** Nome da pasta em public/modalidades/ */
+  folder: string;
   description: string;
 };
 
 export const categories: Category[] = [
   {
-    id: "pinturas",
-    label: "Pinturas",
-    description:
-      "Telas e composições em pintura — a linguagem mais consolidada do artista.",
+    id: "pintura",
+    folder: "Pintura",
+    label: "Pintura",
+    description: "Telas e composições em pintura.",
   },
   {
-    id: "gravuras",
-    label: "Gravuras",
-    description:
-      "Gravuras e desenhos de traço denso, com formas orgânicas e simbólicas.",
+    id: "desenho",
+    folder: "Desenho",
+    label: "Desenho",
+    description: "Desenhos, grafites e traços de estudo e expressão.",
   },
   {
-    id: "esculturas",
-    label: "Esculturas em bronze",
-    description:
-      "Esculturas figurativas e formas em volume, com ênfase no bronze.",
+    id: "bronze",
+    folder: "Bronze",
+    label: "Bronze",
+    description: "Esculturas e volumes em bronze.",
   },
   {
-    id: "esculturas-sucata",
-    label: "Esculturas em sucata",
-    description:
-      "Montagens e esculturas em metal reciclado e sucata.",
+    id: "escultura",
+    folder: "Escultura",
+    label: "Escultura",
+    description: "Esculturas e formas em volume, incluindo argila.",
   },
   {
-    id: "esculturas-argila",
-    label: "Argila e cerâmica",
-    description:
-      "Esculturas, jarros e relevos em argila e cerâmica.",
+    id: "concreto",
+    folder: "Concreto",
+    label: "Concreto",
+    description: "Formas e relevos trabalhados em concreto.",
   },
   {
-    id: "esculturas-concreto",
-    label: "Esculturas em concreto",
-    description:
-      "Formas e volumes trabalhados em concreto.",
+    id: "cobre",
+    folder: "Cobre",
+    label: "Cobre",
+    description: "Relevos e peças em cobre.",
   },
   {
-    id: "zodiaco",
-    label: "Zodíaco",
-    description:
-      "Série de relevos em metal com os signos e a arquitetura de Brasília.",
+    id: "sucata",
+    folder: "Sucata",
+    label: "Sucata",
+    description: "Esculturas e montagens em metal reciclado.",
+  },
+  {
+    id: "signos",
+    folder: "Signos",
+    label: "Signos",
+    description: "Série dos signos e releituras simbólicas.",
   },
 ];
 

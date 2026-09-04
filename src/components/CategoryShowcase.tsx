@@ -7,7 +7,7 @@ import { categories } from "@/data/categories";
 import { modalityCovers } from "@/data/heroMedia";
 
 /**
- * Bloco de modalidades na home — capas a partir de public/img.
+ * Bloco de modalidades na home — capas a partir de public/modalidades/.
  */
 export function CategoryShowcase() {
   return (
@@ -25,7 +25,7 @@ export function CategoryShowcase() {
             className="group relative block aspect-[4/5] overflow-hidden bg-deep"
           >
             <Image
-              src={encodeURI(modalityCovers[category.id] ?? "/media/Pinturas.jpg")}
+              src={encodeURI(modalityCovers[category.id] ?? "/modalidades/abertura/banner.JPG")}
               alt={category.label}
               fill
               className="object-cover transition duration-700 group-hover:scale-105"

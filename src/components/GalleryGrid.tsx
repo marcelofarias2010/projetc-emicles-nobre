@@ -64,22 +64,11 @@ export function GalleryGrid({
             <span className="relative block overflow-hidden bg-[#cfc8bc]/40">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src={artwork.src}
+                src={encodeURI(artwork.src)}
                 alt={artwork.title}
                 className="h-auto w-full object-cover transition duration-500 group-hover:scale-[1.02]"
                 loading="lazy"
               />
-            </span>
-            <span className="mt-2 flex items-baseline justify-between gap-3">
-              <span
-                className="text-sm"
-                style={{ fontFamily: "var(--font-display), serif" }}
-              >
-                {artwork.title}
-              </span>
-              <span className="shrink-0 text-[0.65rem] uppercase tracking-[0.16em] text-[#5c574f]">
-                {categories.find((c) => c.id === artwork.category)?.label}
-              </span>
             </span>
           </button>
         ))}

@@ -31,11 +31,27 @@ export const biography = {
     "Uma apresentação das peças artísticas que abrem o diálogo com o grande público que acompanha o artista.",
   aprioreCountLabel: "obras em destaque",
 
+  /** Convite da home — estreia 2026/2027 */
+  inviteEyebrow: "Biênio 2026 / 2027",
+  inviteTitle: "Um convite à leitura do novo site",
+  inviteLead:
+    "Este espaço é o convite oficial para a estreia da versão renovada do portfólio de Emicles Nogueira Nobre. Uma apresentação pensada para o biênio 2026/2027: novos trabalhos contemporâneos, novas imagens, conceitos atualizados e uma linguagem que acompanha o tempo presente.",
+  inviteBody:
+    "Percorra o site como quem aceita um convite: primeiro as obras, depois a trajetória, as modalidades e o diálogo com o público. A arte, aqui, é também prática de saúde mental e espiritual — um olhar que registra a vida como se a visse pela primeira vez.",
+  inviteCta: "Explorar a galeria",
+
+  /** Andanças extraídas do currículo em doc/SER ARTISTA - ULTIMA PARTE SITE.docx */
+  wanderingsTitle: "Nobre, como um bom cearense, percorreu meio mundo",
+  wanderingsLead:
+    "Do Pará ao Distrito Federal, levou a arte pelos centros do país. Exposições, salões e estandes marcaram Fortaleza, Salvador, Recife, São Paulo, Montes Claros, Campo Grande e Brasília — do Memorial JK ao Palácio do Buriti, da FUNARTE à Galeria Vincent Van Gogh, em Sobradinho.",
+  wanderingsBody:
+    "Em 1996 atravessou fronteiras: Miami, Orlando e o Caribe, com exposição na Gallery 630, em Miami Beach. Em Sobradinho fundou o jornal comunitário Sobradinho Notícias, deixou a escultura Vida na entrada da cidade e segue, com o olhar no presente, planejando projetos renovadores.",
+
   heroLead:
     "Mais de cinquenta anos dedicados à pintura, à escultura e à cultura brasileira — do Ceará ao mundo.",
 
   siteDescription:
-    "Portfólio e trajetória de Emicles Nogueira Nobre: pinturas, gravuras, esculturas, sucata e a série Zodíaco.",
+    "Portfólio e trajetória de Emicles Nogueira Nobre: pintura, desenho, bronze, escultura, concreto, cobre, sucata e signos.",
 
   footerBlurb:
     "Artista plástico cearense. Percorreu o Brasil e o exterior com pintura, desenho, escultura e arte pública. Reside em Sobradinho, no Distrito Federal.",
@@ -96,14 +112,13 @@ export const biography = {
   ],
 
   /**
-   * Linha do tempo condensada a partir das páginas 5 a 8 do roteiro.
-   * Agrupada por décadas para leitura confortável no mobile.
+   * Linha do tempo alinhada ao currículo de doc/SER ARTISTA - ULTIMA PARTE SITE.docx.
    */
   timeline: [
     {
       year: "1959–1965",
       title: "Quadrinhos, charge e publicidade",
-      text: "Desenhista de histórias em quadrinhos, chargista e ilustrador de capas. Em 1963, participou do primeiro Salão de Artes Plásticas da Universidade do Pará, com o quadro surrealista A Tempestade (prêmio de honra ao mérito). Premiado pela TERRACAP em peças publicitárias da Semana da Árvore.",
+      text: "De 1959 a 1962, desenhista de histórias em quadrinhos, chargista e ilustrador de capas de livros e revistas publicitárias. Em 1963, participou do primeiro Salão de Artes Plásticas da Universidade do Pará, com o quadro surrealista A Tempestade (prêmio de honra ao mérito). De 1963 a 1965 dedicou-se a desenhos de revistas e propagandas. Em 1965, foi premiado pela TERRACAP com 12 peças publicitárias da Semana da Árvore.",
     },
     {
       year: "1965–1974",
@@ -113,32 +128,37 @@ export const biography = {
     {
       year: "1975–1979",
       title: "Nordeste, CODEVASF e salões",
-      text: "Stand de arte publicitária no congresso da ABID (Fortaleza). Exposição de 42 óleos sobre o homem e a paisagem nordestina na CODEVASF. Troféu de Ouro em Montes Claros (MG). Medalha de ouro no Salão de Arte e Cultura do Vale do São Francisco. Exposições e stands em Salvador e no Parque do Anhembi (SP).",
+      text: "1975: estande de decoração e arte publicitária sobre irrigação e drenagem no congresso da ABID, em Fortaleza. 1976: 42 óleos sobre o homem e a paisagem nordestina no salão nobre da CODEVASF. 1977: Troféu de Ouro em Montes Claros (MG). 1978: medalha de ouro no 2º Salão de Arte e Cultura do Vale do São Francisco. 1979: exposições de arte e propaganda no congresso da ABID — Hotel Meridien (Salvador) e Parque do Anhembi (São Paulo).",
     },
     {
       year: "1980–1984",
-      title: "Exposições e Brasília",
-      text: "Feira de Pesca no Anhembi, com elogios do então presidente João Figueiredo. Exposições em Recife, Campo Grande, FUNARTE, Biblioteca da CODEVASF, Memorial JK e TRF — incluindo aquarelas do Zodíaco sobre a arquitetura de Brasília. Fundou o jornal comunitário Sobradinho Notícias.",
+      title: "Exposições, Brasília e Sobradinho Notícias",
+      text: "1980: Feira de Pesca no Anhembi, com elogios do então presidente João Figueiredo. 1982: estande no Centro de Convenções de Recife (Simpósio do Trópico Semiárido); 43 óleos sobre o Norte e o Nordeste em Campo Grande (MS); prêmio na exposição das cidades satélites do DF na FUNARTE. 1983: 48 peças a óleo, bico de pena e aquarela na Biblioteca da CODEVASF. 1984: 46 peças no Memorial JK; aquarelas do Zodíaco sobre a arquitetura de Brasília no TRF; arte e propaganda na Conferência Pan-americana em Salvador, com prêmio por dois cartazes; 52 peças no Salão da CODEVASF. No mesmo ano fundou o jornal comunitário Sobradinho Notícias.",
     },
     {
       year: "1990–1998",
       title: "Galerias, sucata e exterior",
-      text: "Exposições na Galeria Vincent Van Gogh (Sobradinho), no Palácio do Buriti e no Museu do Lixo (SLU). Viagem a Miami, Orlando e Caribe, com exposição na Gallery 630 Lincoln Road (Miami Beach). Individuais e coletivas em Brasília, inclusive no Grande Oriente do Brasil.",
+      text: "1990: exposição na Galeria Vincent Van Gogh, em Sobradinho. 1994: 40 telas a óleo no Palácio do Buriti. 1995: pintura e sucata no Museu do Lixo (SLU), com escultura de 2,00 m × 1,80 m. 1996: coletiva com 28 artistas na Praça das Artes, Conjunto Nacional; viagem a Miami, Orlando e Caribe, com 22 acrílicos — “Lendas e costumes do Velho Chico” — na Gallery 630 Lincoln Road, Miami Beach. 1997: nova exposição na Van Gogh. 1998: individual no Grande Oriente do Brasil, Movimento Afro-Brasileiro.",
     },
     {
       year: "1999–2002",
       title: "Concreto, argila e monumentos",
-      text: "Arte em concreto em larga escala (incluindo o Hotel Fazenda Água dos Buritis). Série Evolução da Arte (40 telas). Produção intensa em argila. Escultura VIDA (cerca de 12 m) na entrada de Sobradinho e Almas Gêmeas (casal de ballet em ferro e concreto).",
+      text: "1999: coletiva das cidades satélites na Administração de Sobradinho; prêmio no XXI Salão Riachuelo da Marinha do Brasil; 290 m² de arte em concreto; inauguração do Hotel Fazenda Água dos Buritis (Gama), com 300 m² de criação em concreto. 2000: 40 telas da série Evolução da Arte. 2001: 120 esculturas em argila e obras de quatro e cinco metros de altura. 2002: escultura Vida (12 m, ferro e concreto) na entrada de Sobradinho, mensagem ecológica; dezenas de peças em acrílico, argila, concreto e sucata; Almas Gêmeas (4 m), casal de balé em ferro e concreto.",
     },
     {
       year: "2003–2009",
-      title: "Maturidade do atelier",
-      text: "Exposições na CODEVASF, Galeria Van Gogh, STJ, Aeroporto Internacional de Brasília, Asbac, OAB-DF e Sobradinho Shopping. Pesquisa e novos projetos em pintura, escultura e gravura.",
+      title: "Exposições e pesquisa no atelier",
+      text: "2003: exposição na CODEVASF com argila, sucata e pintura. 2004: 40 acrílicos de tema ecológico na Galeria Van Gogh. 2005: pinturas e esculturas no STJ; dezenas de trabalhos em argila, acrílico, óleo e cobre. 2006: exposições no Aeroporto Internacional de Brasília, Asbac, OAB-DF, Van Gogh e Sobradinho Shopping; em outubro, argila em potes de 50 cm a 1,20 m, alto-relevo com figuras de animais. 2007: projetos de pintura, escultura e gravura com linguagem renovada. 2008–2009: pesquisas e estudos em rascunho para novos projetos.",
     },
     {
-      year: "2010–hoje",
-      title: "Legado em movimento",
-      text: "Continuidade da produção e do diálogo com o público — a lenda viva que segue aparecendo pela arte.",
+      year: "2014–2021",
+      title: "Coletivas, restauros e a pandemia",
+      text: "Após um período sem individuais, participou de exposições coletivas e da restauração de obras já existentes, além de eventos em Sobradinho. Durante a pandemia se reinventou e expôs painéis e telas na Administração de Sobradinho — sucesso absoluto.",
+    },
+    {
+      year: "2022–hoje",
+      title: "Academia, futuro e convite ao mural",
+      text: "Em 2022, foi convidado a integrar a Academia de Letras e Artes Plásticas da cidade. Volta ao ritual da produção, com o olhar no presente e projetos renovadores. Disponibiliza o uso de seus desenhos a quem desejar construir um mural com eles.",
     },
   ],
 } as const;

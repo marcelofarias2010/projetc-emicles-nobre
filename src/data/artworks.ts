@@ -1,5 +1,6 @@
 import type { CategoryId } from "./categories";
-import scans from "./gallery-from-img.json";
+import scans from "./gallery-from-modalidades.json";
+import modalityCoverMap from "./modality-covers.json";
 
 export type Artwork = {
   id: string;
@@ -22,7 +23,7 @@ type ScanItem = {
 };
 
 /**
- * Catálogo principal: obras em public/img/, classificadas pelo nome do arquivo.
+ * Catálogo principal: somente arquivos em public/modalidades/.
  */
 export const artworks: Artwork[] = (scans as ScanItem[]).map((item) => ({
   id: item.id,
@@ -48,25 +49,21 @@ export function getArtworkById(id: string): Artwork | undefined {
   return artworks.find((a) => a.id === id);
 }
 
-/** Imagens de destaque — preferir public/img após o rename */
+/** Capas por modalidade (geradas a partir das pastas). */
+export const modalityCovers = modalityCoverMap as Record<CategoryId, string>;
+
+/** Destaques de apoio — somente public/modalidades/. */
 export const featured = {
-  hero: "/img/sertao.jpg",
-  artist: "/img/artista.jpg",
-  painting: "/img/pintura1.jpg",
-  engraving: "/img/grafite.jpg",
-  sculpture: "/img/escultura_bronze.jpg",
-  scrap: "/img/escultura_sucata1.jpg",
-  clay: "/img/escultura_argila1.jpg",
-  concrete: "/img/escultura_concreto.jpg",
-  zodiac: "/img/zodiaco1.jpg",
-  pop: "/img/artPop.jpg",
+  artist: "/modalidades/abertura/artista3.jpg",
+  artistAlt: "/modalidades/abertura/nobreComEstatua.JPG",
+  banner: "/modalidades/abertura/banner.JPG",
+  communication: "/modalidades/abertura/comunicacao.png",
 };
 
 const CONTEMPORARY_TARGET = 60;
 
 /**
- * Seleciona até 60 obras contemporâneas, equilibrando as modalidades.
- * Segue o bloco “Apriore” do roteiro do artista.
+ * Seleciona até 60 obras, equilibrando as modalidades.
  */
 export function getContemporaryArtworks(limit = CONTEMPORARY_TARGET): Artwork[] {
   const byCategory = new Map<CategoryId, Artwork[]>();

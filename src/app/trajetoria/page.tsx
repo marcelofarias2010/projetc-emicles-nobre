@@ -18,10 +18,10 @@ export default function TrajetoriaPage() {
     <div className="pt-24 md:pt-28">
       <section className="relative min-h-[48svh] overflow-hidden bg-deep text-white">
         <Image
-          src={encodeURI(featured.pop)}
-          alt="Obra de Emicles Nogueira Nobre"
+          src={encodeURI("/modalidades/abertura/banner.JPG")}
+          alt="Banner — Emicles Nogueira Nobre"
           fill
-          className="object-cover"
+          className="object-cover object-center"
           sizes="100vw"
           priority
           unoptimized

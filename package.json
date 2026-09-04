@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "gallery:build": "python scripts/build-gallery-from-img.py"
+    "gallery:build": "python scripts/build-gallery-from-modalidades.py"
   },
   "dependencies": {
     "framer-motion": "^12.42.2",
