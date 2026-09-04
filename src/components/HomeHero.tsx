@@ -6,8 +6,8 @@ import { heroCarousel } from "@/data/heroMedia";
 const SLIDE_MS = 3000;
 
 /**
- * Hero full-bleed: carrossel automático das obras em modalidades/carrousel (3s).
- * Sem texto sobre as imagens — só a mídia e indicadores discretos.
+ * Hero full-bleed: carrossel automático das obras (3s).
+ * No celular a área segue 16:9 para a obra inteira caber; no desktop ocupa a tela.
  */
 export function HomeHero() {
   const [slide, setSlide] = useState(0);
@@ -21,11 +21,19 @@ export function HomeHero() {
   }, [slide]);
 
   if (heroCarousel.length === 0) {
-    return <section className="relative min-h-[100svh] bg-[#1a1714]" aria-label="Destaque" />;
+    return (
+      <section
+        className="hero-carousel relative bg-[#1a1714]"
+        aria-label="Destaque"
+      />
+    );
   }
 
   return (
-    <section className="relative min-h-[100svh] overflow-hidden bg-[#1a1714]" aria-label="Carrossel de obras">
+    <section
+      className="hero-carousel relative overflow-hidden bg-[#1a1714]"
+      aria-label="Carrossel de obras"
+    >
       <div className="absolute inset-0 z-0">
         {heroCarousel.map((item, index) => (
           <div
@@ -37,27 +45,29 @@ export function HomeHero() {
             }}
             aria-hidden={index !== slide}
           >
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={item.src}
-              alt={item.alt}
-              width={2400}
-              height={1600}
-              decoding="async"
-              loading={index < 3 ? "eager" : "lazy"}
-              fetchPriority={index === 0 ? "high" : "low"}
-            />
+            <picture>
+              <source media="(max-width: 768px)" srcSet={item.srcMobile} />
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={item.src}
+                alt={item.alt}
+                width={2560}
+                height={1440}
+                decoding="async"
+                loading={index < 2 ? "eager" : "lazy"}
+                fetchPriority={index === 0 ? "high" : "low"}
+              />
+            </picture>
           </div>
         ))}
       </div>
 
-      {/* Faixa leve no topo só para legibilidade do menu fixo */}
       <div
         className="pointer-events-none absolute inset-x-0 top-0 z-[1] h-28 bg-gradient-to-b from-black/50 to-transparent"
         aria-hidden
       />
 
-      <div className="absolute inset-x-0 bottom-0 z-10 flex items-end justify-between gap-4 px-4 pb-6 md:px-8 md:pb-8">
+      <div className="absolute inset-x-0 bottom-0 z-10 flex items-end justify-between gap-4 px-4 pb-4 md:px-8 md:pb-8">
         <div className="flex max-w-[70%] flex-wrap items-center gap-1.5">
           {heroCarousel.map((item, index) => (
             <button
