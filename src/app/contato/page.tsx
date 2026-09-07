@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { biography } from "@/data/biography";
 
 export const metadata: Metadata = {
@@ -8,26 +7,22 @@ export const metadata: Metadata = {
     "Fale sobre obras, acervo e visitas. Emicles Nogueira Nobre reside no Condomínio Morada dos Nobres, em Sobradinho, DF.",
 };
 
-const CONTACT_HERO = "/modalidades/Pintura/20220918_122743_HDR.JPG";
-
 /**
- * Página de contato com cabeçalho visual no mesmo espírito da galeria.
+ * Página de contato com cabeçalho no mesmo espírito da galeria.
  */
 export default function ContatoPage() {
   return (
     <div className="pb-20 md:pb-28">
-      <section className="relative min-h-[48svh] overflow-hidden bg-deep text-white">
-        <Image
-          src={encodeURI(CONTACT_HERO)}
-          alt="Pintura — Emicles Nogueira Nobre"
-          fill
-          className="object-cover object-center"
-          sizes="100vw"
-          priority
-          unoptimized
+      <section className="relative overflow-hidden bg-deep text-white">
+        <div
+          className="pointer-events-none absolute inset-0 opacity-80"
+          style={{
+            background:
+              "radial-gradient(ellipse 80% 60% at 20% 80%, rgba(166,93,59,0.28), transparent 55%), radial-gradient(ellipse 70% 50% at 90% 20%, rgba(255,255,255,0.06), transparent 50%)",
+          }}
+          aria-hidden
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/55 to-black/25" />
-        <div className="relative z-10 mx-auto flex min-h-[48svh] max-w-7xl items-end px-4 pb-12 pt-28 md:px-8 md:pt-32">
+        <div className="relative z-10 mx-auto flex max-w-7xl items-end px-4 pb-12 pt-28 md:px-8 md:pt-32">
           <div className="max-w-3xl">
             <p className="text-xs uppercase tracking-[0.22em] text-white/70">Fale conosco</p>
             <h1

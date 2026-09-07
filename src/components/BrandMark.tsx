@@ -12,11 +12,12 @@ type Props = {
 export function BrandMark({ size = 36, className = "", priority = false }: Props) {
   return (
     <Image
-      src="/brand/nobre-mark.png"
+      src="/modalidades/abertura/nobre-mark.png"
       alt="Brasão Nobre"
       width={size}
       height={size}
       className={`shrink-0 rounded-full object-cover ring-1 ring-white/20 ${className}`}
+      style={{ width: size, height: "auto" }}
       priority={priority}
     />
   );

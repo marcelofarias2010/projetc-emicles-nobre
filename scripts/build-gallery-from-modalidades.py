@@ -1,4 +1,4 @@
-"""Gera catálogo e capas a partir de public/modalidades/ (exceto carrousel e abertura)."""
+"""Gera catálogo e capas a partir de public/modalidades/ (exceto carrousel, abertura e mosaico)."""
 from __future__ import annotations
 
 import json
@@ -12,29 +12,23 @@ MOSAICO = ROOT / "mosaico"
 
 # Capas fixas da pasta mosaico (quando existirem).
 MOSAICO_COVERS: dict[str, str] = {
-    "pintura": "Pinturas.jpg",
-    "desenho": "desenho.jpg",
-    "bronze": "Bronze.jpg",
-    "cobre": "cobre.jpg",
+    "bronze-e-cobre": "Bronze.jpg",
     "concreto": "Concreto.jpg",
+    "desenho-e-pintura": "Pinturas.jpg",
     "escultura": "Argila.jpg",
     "sucata": "Sucata.jpg",
-    "signos": "signos.jpg",
 }
 
-# Pasta em disco → id no site
+# Pasta em disco → id no site → rótulo
 MODALITIES = [
-    ("Pintura", "pintura", "Pintura"),
-    ("Desenho", "desenho", "Desenho"),
-    ("Bronze", "bronze", "Bronze"),
-    ("Escultura", "escultura", "Escultura"),
+    ("Bronze_e_Cobre", "bronze-e-cobre", "Bronze e Cobre"),
     ("Concreto", "concreto", "Concreto"),
-    ("Cobre", "cobre", "Cobre"),
+    ("Desenho_e_Pintura", "desenho-e-pintura", "Desenho e Pintura"),
+    ("Escultura", "escultura", "Escultura"),
     ("Sucata", "sucata", "Sucata"),
-    ("Signos", "signos", "Signos"),
 ]
 
-IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".gif"}
+IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".bmp"}
 
 
 def pretty_title(filename: str, label: str, index: int) -> str:

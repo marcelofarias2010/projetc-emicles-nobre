@@ -25,7 +25,7 @@ export default function HomePage() {
               Pelas quais o artista se identifica
             </h2>
             <p className="mt-3 text-ink-muted">
-              Pintura, desenho, bronze, escultura, concreto, cobre, sucata e signos.
+              Bronze e cobre, concreto, desenho e pintura, escultura e sucata.
             </p>
           </div>
           <CategoryShowcase />

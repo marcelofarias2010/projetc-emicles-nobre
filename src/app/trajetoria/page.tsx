@@ -16,18 +16,16 @@ export const metadata: Metadata = {
 export default function TrajetoriaPage() {
   return (
     <div className="pt-24 md:pt-28">
-      <section className="relative min-h-[48svh] overflow-hidden bg-deep text-white">
-        <Image
-          src={encodeURI("/modalidades/abertura/banner.JPG")}
-          alt="Banner — Emicles Nogueira Nobre"
-          fill
-          className="object-cover object-center"
-          sizes="100vw"
-          priority
-          unoptimized
+      <section className="relative overflow-hidden bg-deep text-white">
+        <div
+          className="pointer-events-none absolute inset-0 opacity-80"
+          style={{
+            background:
+              "radial-gradient(ellipse 80% 60% at 20% 80%, rgba(166,93,59,0.28), transparent 55%), radial-gradient(ellipse 70% 50% at 90% 20%, rgba(255,255,255,0.06), transparent 50%)",
+          }}
+          aria-hidden
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/55 to-black/25" />
-        <div className="relative z-10 mx-auto flex min-h-[48svh] max-w-7xl items-end px-4 pb-12 md:px-8">
+        <div className="relative z-10 mx-auto flex max-w-7xl items-end px-4 pb-12 md:px-8">
           <div className="max-w-3xl">
             <p className="text-xs uppercase tracking-[0.22em] text-white/70">Biografia</p>
             <h1

@@ -1,10 +1,7 @@
 {
-  "pintura": "/modalidades/mosaico/Pinturas.jpg",
-  "desenho": "/modalidades/mosaico/desenho.jpg",
-  "bronze": "/modalidades/mosaico/Bronze.jpg",
-  "escultura": "/modalidades/mosaico/Argila.jpg",
+  "bronze-e-cobre": "/modalidades/mosaico/Bronze.jpg",
   "concreto": "/modalidades/mosaico/Concreto.jpg",
-  "cobre": "/modalidades/mosaico/cobre.jpg",
-  "sucata": "/modalidades/mosaico/Sucata.jpg",
-  "signos": "/modalidades/mosaico/signos.jpg"
+  "desenho-e-pintura": "/modalidades/mosaico/Pinturas.jpg",
+  "escultura": "/modalidades/mosaico/Argila.jpg",
+  "sucata": "/modalidades/mosaico/Sucata.jpg"
 }

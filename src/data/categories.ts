@@ -1,16 +1,13 @@
 /**
  * Modalidades oficiais — pastas em public/modalidades/.
- * (carrousel/ e abertura/ são apoio visual, não filtros da galeria.)
+ * (carrousel/, abertura/ e mosaico/ são apoio visual, não filtros da galeria.)
  */
 export type CategoryId =
-  | "pintura"
-  | "desenho"
-  | "bronze"
-  | "escultura"
+  | "bronze-e-cobre"
   | "concreto"
-  | "cobre"
-  | "sucata"
-  | "signos";
+  | "desenho-e-pintura"
+  | "escultura"
+  | "sucata";
 
 export type Category = {
   id: CategoryId;
@@ -22,28 +19,10 @@ export type Category = {
 
 export const categories: Category[] = [
   {
-    id: "pintura",
-    folder: "Pintura",
-    label: "Pintura",
-    description: "Telas e composições em pintura.",
-  },
-  {
-    id: "desenho",
-    folder: "Desenho",
-    label: "Desenho",
-    description: "Desenhos, grafites e traços de estudo e expressão.",
-  },
-  {
-    id: "bronze",
-    folder: "Bronze",
-    label: "Bronze",
-    description: "Esculturas e volumes em bronze.",
-  },
-  {
-    id: "escultura",
-    folder: "Escultura",
-    label: "Escultura",
-    description: "Esculturas e formas em volume, incluindo argila.",
+    id: "bronze-e-cobre",
+    folder: "Bronze_e_Cobre",
+    label: "Bronze e Cobre",
+    description: "Esculturas, relevos e a série zodiacal em bronze e cobre.",
   },
   {
     id: "concreto",
@@ -52,22 +31,22 @@ export const categories: Category[] = [
     description: "Formas e relevos trabalhados em concreto.",
   },
   {
-    id: "cobre",
-    folder: "Cobre",
-    label: "Cobre",
-    description: "Relevos e peças em cobre.",
+    id: "desenho-e-pintura",
+    folder: "Desenho_e_Pintura",
+    label: "Desenho e Pintura",
+    description: "Desenhos, grafites, telas e composições em pintura.",
+  },
+  {
+    id: "escultura",
+    folder: "Escultura",
+    label: "Escultura",
+    description: "Esculturas e formas em volume, incluindo argila.",
   },
   {
     id: "sucata",
     folder: "Sucata",
     label: "Sucata",
     description: "Esculturas e montagens em metal reciclado.",
-  },
-  {
-    id: "signos",
-    folder: "Signos",
-    label: "Signos",
-    description: "Série dos signos e releituras simbólicas.",
   },
 ];
 

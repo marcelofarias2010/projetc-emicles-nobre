@@ -51,7 +51,7 @@ export const biography = {
     "Mais de cinquenta anos dedicados à pintura, à escultura e à cultura brasileira — do Ceará ao mundo.",
 
   siteDescription:
-    "Portfólio e trajetória de Emicles Nogueira Nobre: pintura, desenho, bronze, escultura, concreto, cobre, sucata e signos.",
+    "Portfólio e trajetória de Emicles Nogueira Nobre: bronze e cobre, concreto, desenho e pintura, escultura e sucata.",
 
   footerBlurb:
     "Artista plástico cearense. Percorreu o Brasil e o exterior com pintura, desenho, escultura e arte pública. Reside em Sobradinho, no Distrito Federal.",
