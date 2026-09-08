@@ -9,7 +9,10 @@ export const biography = {
   age: 87,
   birthplace: "Crateús, Ceará",
   residence: "Sobradinho, Distrito Federal",
-  email: "emiclesnobre@gmail.com",
+  email: "emicles.nobre.arts@gmail.com",
+  /** Número internacional para o link wa.me (Brasil +55). */
+  whatsapp: "556198833873",
+  whatsappDisplay: "(61) 9883-3873",
   tagline: "Artista visual · 87 anos",
   headerSubtitle: "Artes · +50 anos",
 
