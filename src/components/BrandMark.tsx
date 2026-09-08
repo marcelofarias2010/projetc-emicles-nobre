@@ -7,17 +7,17 @@ type Props = {
 };
 
 /**
- * Marca visual do brasão Nobre usada no cabeçalho, rodapé e ícones do site.
+ * Marca visual Nobre usada no cabeçalho, rodapé e ícones do site.
  */
 export function BrandMark({ size = 36, className = "", priority = false }: Props) {
   return (
     <Image
-      src="/modalidades/abertura/nobre-mark.png"
-      alt="Brasão Nobre"
+      src="/modalidades/abertura/nobre_abertura.png"
+      alt="Emicles Nogueira Nobre"
       width={size}
       height={size}
-      className={`shrink-0 rounded-full object-cover ring-1 ring-white/20 ${className}`}
-      style={{ width: size, height: "auto" }}
+      className={`shrink-0 rounded-sm object-contain ${className}`}
+      style={{ width: size, height: size }}
       priority={priority}
     />
   );

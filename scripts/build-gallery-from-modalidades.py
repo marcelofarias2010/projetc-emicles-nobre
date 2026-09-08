@@ -15,7 +15,7 @@ MOSAICO_COVERS: dict[str, str] = {
     "bronze-e-cobre": "Bronze.jpg",
     "concreto": "Concreto.jpg",
     "desenho-e-pintura": "Pinturas.jpg",
-    "escultura": "Argila.jpg",
+    "escultura": "escultura.jpg",
     "sucata": "Sucata.jpg",
 }
 

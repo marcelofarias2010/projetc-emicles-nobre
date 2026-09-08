@@ -22,7 +22,7 @@ export function CategoryShowcase() {
         >
           <Link
             href={`/galeria?categoria=${category.id}`}
-            className="group relative block aspect-[4/5] overflow-hidden bg-deep"
+            className="group relative block aspect-[700/500] overflow-hidden bg-deep"
           >
             <Image
               src={encodeURI(modalityCovers[category.id] ?? "/modalidades/abertura/banner.JPG")}

@@ -23,10 +23,9 @@ export const metadata: Metadata = {
   description: biography.siteDescription,
   icons: {
     icon: [
-      { url: "/favicon.ico" },
-      { url: "/icon.png", type: "image/png", sizes: "512x512" },
+      { url: "/modalidades/abertura/nobre_abertura.png", type: "image/png" },
     ],
-    apple: [{ url: "/apple-icon.png", sizes: "180x180" }],
+    apple: [{ url: "/modalidades/abertura/nobre_abertura.png", type: "image/png" }],
   },
   openGraph: {
     title: "Emicles Nogueira Nobre — Artes",
