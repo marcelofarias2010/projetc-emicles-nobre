@@ -1,86 +1,107 @@
+import Image from "next/image";
 import Link from "next/link";
 import { biography } from "@/data/biography";
 import { BrandMark } from "./BrandMark";
 
 /**
- * Rodapé com links sociais e navegação secundária.
+ * Rodapé com imagem de abertura à esquerda e conteúdo textual à direita.
  */
 export function SiteFooter() {
   return (
     <footer className="border-t border-line bg-deep text-white">
-      <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 md:grid-cols-[1.4fr_1fr_1fr] md:px-8">
-        <div>
-          <p
-            className="text-2xl tracking-tight"
-            style={{ fontFamily: "var(--font-display), serif" }}
-          >
-            Emicles Nogueira Nobre
-          </p>
-          <p className="mt-3 max-w-md text-sm leading-relaxed text-white/65">
-            {biography.footerBlurb}
-          </p>
+      <div className="mx-auto grid max-w-7xl items-center gap-10 px-4 py-14 md:grid-cols-[minmax(0,1.15fr)_minmax(0,1.2fr)] md:gap-12 md:px-8">
+        <div className="relative mx-auto aspect-[16/10] w-full max-w-xl overflow-hidden md:mx-0 md:max-w-none">
+          <Image
+            src="/modalidades/abertura/61-desenho.jpeg"
+            alt="A vida de cada pessoa é uma caixinha de surpresas — NOBRE"
+            fill
+            className="object-contain object-left"
+            sizes="(max-width: 768px) 100vw, 48vw"
+            unoptimized
+          />
         </div>
 
-        <div>
-          <p className="text-xs uppercase tracking-[0.2em] text-white/45">Navegação</p>
-          <ul className="mt-4 space-y-2 text-sm text-white/80">
-            <li>
-              <Link href="/galeria" className="hover:text-white">
-                Galeria
-              </Link>
-            </li>
-            <li>
-              <Link href="/galeria?destaque=contemporaneas" className="hover:text-white">
-                Obras contemporâneas
-              </Link>
-            </li>
-            <li>
-              <Link href="/trajetoria" className="hover:text-white">
-                Trajetória
-              </Link>
-            </li>
-            <li>
-              <Link href="/contato" className="hover:text-white">
-                Contato
-              </Link>
-            </li>
-          </ul>
-        </div>
+        <div className="flex flex-col gap-10">
+          <div>
+            <p
+              className="text-2xl tracking-tight"
+              style={{ fontFamily: "var(--font-display), serif" }}
+            >
+              Emicles Nogueira Nobre
+            </p>
+            <p className="mt-3 max-w-md text-sm leading-relaxed text-white/65">
+              {biography.footerBlurb}
+            </p>
+          </div>
 
-        <div>
-          <p className="text-xs uppercase tracking-[0.2em] text-white/45">Redes</p>
-          <ul className="mt-4 space-y-2 text-sm text-white/80">
-            <li>
-              <a
-                href="https://www.facebook.com/emiclesnobre"
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-white"
-              >
-                Facebook
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.instagram.com/emiclesnogueiranobre/"
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-white"
-              >
-                Instagram
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.instagram.com/emicles.nobre/"
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-white"
-              >
-                Instagram (atelier)
-              </a>
-            </li>
-          </ul>
+          <div className="grid gap-8 sm:grid-cols-2">
+            <div>
+              <p className="text-xs uppercase tracking-[0.2em] text-white/45">
+                Navegação
+              </p>
+              <ul className="mt-4 space-y-2 text-sm text-white/80">
+                <li>
+                  <Link href="/galeria" className="hover:text-white">
+                    Galeria
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href="/galeria?destaque=contemporaneas"
+                    className="hover:text-white"
+                  >
+                    Obras contemporâneas
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/trajetoria" className="hover:text-white">
+                    Trajetória
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/contato" className="hover:text-white">
+                    Contato
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
+            <div>
+              <p className="text-xs uppercase tracking-[0.2em] text-white/45">Redes</p>
+              <ul className="mt-4 space-y-2 text-sm text-white/80">
+                <li>
+                  <a
+                    href="https://www.facebook.com/emiclesnobre"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="hover:text-white"
+                  >
+                    Facebook
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.instagram.com/emiclesnogueiranobre/"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="hover:text-white"
+                  >
+                    Instagram
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.instagram.com/emicles.nobre/"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="hover:text-white"
+                  >
+                    Instagram (atelier)
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
 
