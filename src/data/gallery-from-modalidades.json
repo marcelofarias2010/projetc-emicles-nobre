@@ -388,128 +388,137 @@
   },
   {
     "id": "concreto-013",
-    "title": "Concreto — 3 concreto",
+    "title": "Concreto — 20 concreto",
     "category": "concreto",
-    "src": "/modalidades/Concreto/3-concreto.jpeg",
+    "src": "/modalidades/Concreto/20-concreto.jpeg",
     "year": null,
     "page": 13,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-014",
-    "title": "Concreto — 4 concreto",
+    "title": "Concreto — 3 concreto",
     "category": "concreto",
-    "src": "/modalidades/Concreto/4-concreto.jpeg",
+    "src": "/modalidades/Concreto/3-concreto.jpeg",
     "year": null,
     "page": 14,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-015",
-    "title": "Concreto — 5 concreto",
+    "title": "Concreto — 4 concreto",
     "category": "concreto",
-    "src": "/modalidades/Concreto/5-concreto.jpeg",
+    "src": "/modalidades/Concreto/4-concreto.jpeg",
     "year": null,
     "page": 15,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-016",
-    "title": "Concreto — 6 concreto",
+    "title": "Concreto — 5 concreto",
     "category": "concreto",
-    "src": "/modalidades/Concreto/6-concreto.jpeg",
+    "src": "/modalidades/Concreto/5-concreto.jpeg",
     "year": null,
     "page": 16,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-017",
-    "title": "Concreto — 7 concreto",
+    "title": "Concreto — 6 concreto",
     "category": "concreto",
-    "src": "/modalidades/Concreto/7-concreto.jpeg",
+    "src": "/modalidades/Concreto/6-concreto.jpeg",
     "year": null,
     "page": 17,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-018",
-    "title": "Concreto — 8 concreto",
+    "title": "Concreto — 7 concreto",
     "category": "concreto",
-    "src": "/modalidades/Concreto/8-concreto.jpeg",
+    "src": "/modalidades/Concreto/7-concreto.jpeg",
     "year": null,
     "page": 18,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-019",
-    "title": "Concreto — 9 concreto",
+    "title": "Concreto — 8 concreto",
     "category": "concreto",
-    "src": "/modalidades/Concreto/9-concreto.jpeg",
+    "src": "/modalidades/Concreto/8-concreto.jpeg",
     "year": null,
     "page": 19,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-020",
-    "title": "Concreto — (1)",
+    "title": "Concreto — 9 concreto",
     "category": "concreto",
-    "src": "/modalidades/Concreto/concreto (1).JPG",
+    "src": "/modalidades/Concreto/9-concreto.jpeg",
     "year": null,
     "page": 20,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-021",
-    "title": "Concreto — (13)",
+    "title": "Concreto — (1)",
     "category": "concreto",
-    "src": "/modalidades/Concreto/concreto (13).JPG",
+    "src": "/modalidades/Concreto/concreto (1).JPG",
     "year": null,
     "page": 21,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-022",
-    "title": "Concreto — (14)",
+    "title": "Concreto — (13)",
     "category": "concreto",
-    "src": "/modalidades/Concreto/concreto (14).JPG",
+    "src": "/modalidades/Concreto/concreto (13).JPG",
     "year": null,
     "page": 22,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-023",
-    "title": "Concreto — (15)",
+    "title": "Concreto — (14)",
     "category": "concreto",
-    "src": "/modalidades/Concreto/concreto (15).JPG",
+    "src": "/modalidades/Concreto/concreto (14).JPG",
     "year": null,
     "page": 23,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-024",
-    "title": "Concreto — (17)",
+    "title": "Concreto — (15)",
     "category": "concreto",
-    "src": "/modalidades/Concreto/concreto (17).jpg",
+    "src": "/modalidades/Concreto/concreto (15).JPG",
     "year": null,
     "page": 24,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-025",
-    "title": "Concreto — (5)",
+    "title": "Concreto — (17)",
     "category": "concreto",
-    "src": "/modalidades/Concreto/concreto (5).JPG",
+    "src": "/modalidades/Concreto/concreto (17).jpg",
     "year": null,
     "page": 25,
     "source": "public/modalidades/Concreto"
   },
   {
     "id": "concreto-026",
+    "title": "Concreto — (5)",
+    "category": "concreto",
+    "src": "/modalidades/Concreto/concreto (5).JPG",
+    "year": null,
+    "page": 26,
+    "source": "public/modalidades/Concreto"
+  },
+  {
+    "id": "concreto-027",
     "title": "Concreto — (6)",
     "category": "concreto",
     "src": "/modalidades/Concreto/concreto (6).JPG",
     "year": null,
-    "page": 26,
+    "page": 27,
     "source": "public/modalidades/Concreto"
   },
   {
@@ -1207,74 +1216,65 @@
   },
   {
     "id": "escultura-014",
-    "title": "Escultura — 21 escultura",
+    "title": "Escultura — 3 escultura",
     "category": "escultura",
-    "src": "/modalidades/Escultura/21-escultura.jpeg",
+    "src": "/modalidades/Escultura/3-escultura.jpg",
     "year": null,
     "page": 14,
     "source": "public/modalidades/Escultura"
   },
   {
     "id": "escultura-015",
-    "title": "Escultura — 3 escultura",
+    "title": "Escultura — 4 escultura",
     "category": "escultura",
-    "src": "/modalidades/Escultura/3-escultura.jpg",
+    "src": "/modalidades/Escultura/4-escultura.jpg",
     "year": null,
     "page": 15,
     "source": "public/modalidades/Escultura"
   },
   {
     "id": "escultura-016",
-    "title": "Escultura — 4 escultura",
+    "title": "Escultura — 5 escultura",
     "category": "escultura",
-    "src": "/modalidades/Escultura/4-escultura.jpg",
+    "src": "/modalidades/Escultura/5-escultura.JPG",
     "year": null,
     "page": 16,
     "source": "public/modalidades/Escultura"
   },
   {
     "id": "escultura-017",
-    "title": "Escultura — 5 escultura",
+    "title": "Escultura — 6 escultura",
     "category": "escultura",
-    "src": "/modalidades/Escultura/5-escultura.JPG",
+    "src": "/modalidades/Escultura/6-escultura.JPG",
     "year": null,
     "page": 17,
     "source": "public/modalidades/Escultura"
   },
   {
     "id": "escultura-018",
-    "title": "Escultura — 6 escultura",
+    "title": "Escultura — 7 escultura",
     "category": "escultura",
-    "src": "/modalidades/Escultura/6-escultura.JPG",
+    "src": "/modalidades/Escultura/7-escultura.JPG",
     "year": null,
     "page": 18,
     "source": "public/modalidades/Escultura"
   },
   {
     "id": "escultura-019",
-    "title": "Escultura — 7 escultura",
+    "title": "Escultura — 8 escultura",
     "category": "escultura",
-    "src": "/modalidades/Escultura/7-escultura.JPG",
+    "src": "/modalidades/Escultura/8-escultura.JPG",
     "year": null,
     "page": 19,
     "source": "public/modalidades/Escultura"
   },
   {
     "id": "escultura-020",
-    "title": "Escultura — 8 escultura",
-    "category": "escultura",
-    "src": "/modalidades/Escultura/8-escultura.JPG",
-    "year": null,
-    "page": 20,
-    "source": "public/modalidades/Escultura"
-  },
-  {
-    "id": "escultura-021",
     "title": "Escultura — 9 escultura",
     "category": "escultura",
     "src": "/modalidades/Escultura/9-escultura.jpg",
     "year": null,
-    "page": 21,
+    "page": 20,
     "source": "public/modalidades/Escultura"
   },
   {
