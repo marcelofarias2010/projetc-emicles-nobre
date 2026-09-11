@@ -288,15 +288,6 @@
     "source": "public/modalidades/Concreto"
   },
   {
-    "id": "concreto-002",
-    "title": "Concreto — (12)",
-    "category": "concreto",
-    "src": "/modalidades/Concreto/concreto (12).JPG",
-    "year": null,
-    "page": 2,
-    "source": "public/modalidades/Concreto"
-  },
-  {
     "id": "concreto-003",
     "title": "Concreto — (13)",
     "category": "concreto",
@@ -369,15 +360,6 @@
     "source": "public/modalidades/Desenho_e_Pintura"
   },
   {
-    "id": "desenho-e-pintura-003",
-    "title": "Desenho e Pintura — 10 desenho",
-    "category": "desenho-e-pintura",
-    "src": "/modalidades/Desenho_e_Pintura/10-desenho.jpg",
-    "year": null,
-    "page": 3,
-    "source": "public/modalidades/Desenho_e_Pintura"
-  },
-  {
     "id": "desenho-e-pintura-004",
     "title": "Desenho e Pintura — 10 pintura",
     "category": "desenho-e-pintura",
@@ -414,15 +396,6 @@
     "source": "public/modalidades/Desenho_e_Pintura"
   },
   {
-    "id": "desenho-e-pintura-008",
-    "title": "Desenho e Pintura — 13 desenho",
-    "category": "desenho-e-pintura",
-    "src": "/modalidades/Desenho_e_Pintura/13-desenho.jpg",
-    "year": null,
-    "page": 8,
-    "source": "public/modalidades/Desenho_e_Pintura"
-  },
-  {
     "id": "desenho-e-pintura-009",
     "title": "Desenho e Pintura — 13 pintura",
     "category": "desenho-e-pintura",
@@ -432,30 +405,12 @@
     "source": "public/modalidades/Desenho_e_Pintura"
   },
   {
-    "id": "desenho-e-pintura-010",
-    "title": "Desenho e Pintura — 14 desenho",
-    "category": "desenho-e-pintura",
-    "src": "/modalidades/Desenho_e_Pintura/14-desenho.jpg",
-    "year": null,
-    "page": 10,
-    "source": "public/modalidades/Desenho_e_Pintura"
-  },
-  {
     "id": "desenho-e-pintura-011",
     "title": "Desenho e Pintura — 14 pintura",
     "category": "desenho-e-pintura",
     "src": "/modalidades/Desenho_e_Pintura/14-pintura.jpg",
     "year": null,
     "page": 11,
-    "source": "public/modalidades/Desenho_e_Pintura"
-  },
-  {
-    "id": "desenho-e-pintura-012",
-    "title": "Desenho e Pintura — 15 desenho",
-    "category": "desenho-e-pintura",
-    "src": "/modalidades/Desenho_e_Pintura/15-desenho.jpg",
-    "year": null,
-    "page": 12,
     "source": "public/modalidades/Desenho_e_Pintura"
   },
   {
@@ -504,30 +459,12 @@
     "source": "public/modalidades/Desenho_e_Pintura"
   },
   {
-    "id": "desenho-e-pintura-018",
-    "title": "Desenho e Pintura — 18 desenho",
-    "category": "desenho-e-pintura",
-    "src": "/modalidades/Desenho_e_Pintura/18-desenho.jpeg",
-    "year": null,
-    "page": 18,
-    "source": "public/modalidades/Desenho_e_Pintura"
-  },
-  {
     "id": "desenho-e-pintura-019",
     "title": "Desenho e Pintura — 18 pintura",
     "category": "desenho-e-pintura",
     "src": "/modalidades/Desenho_e_Pintura/18-pintura.JPG",
     "year": null,
     "page": 19,
-    "source": "public/modalidades/Desenho_e_Pintura"
-  },
-  {
-    "id": "desenho-e-pintura-020",
-    "title": "Desenho e Pintura — 19 desenho",
-    "category": "desenho-e-pintura",
-    "src": "/modalidades/Desenho_e_Pintura/19-desenho.jpeg",
-    "year": null,
-    "page": 20,
     "source": "public/modalidades/Desenho_e_Pintura"
   },
   {
@@ -555,15 +492,6 @@
     "src": "/modalidades/Desenho_e_Pintura/20-desenho.jpeg",
     "year": null,
     "page": 23,
-    "source": "public/modalidades/Desenho_e_Pintura"
-  },
-  {
-    "id": "desenho-e-pintura-024",
-    "title": "Desenho e Pintura — 21 desenho",
-    "category": "desenho-e-pintura",
-    "src": "/modalidades/Desenho_e_Pintura/21-desenho.jpeg",
-    "year": null,
-    "page": 24,
     "source": "public/modalidades/Desenho_e_Pintura"
   },
   {
@@ -609,15 +537,6 @@
     "src": "/modalidades/Desenho_e_Pintura/24-pintura.JPG",
     "year": null,
     "page": 29,
-    "source": "public/modalidades/Desenho_e_Pintura"
-  },
-  {
-    "id": "desenho-e-pintura-030",
-    "title": "Desenho e Pintura — 25 pintura",
-    "category": "desenho-e-pintura",
-    "src": "/modalidades/Desenho_e_Pintura/25-pintura.jpg",
-    "year": null,
-    "page": 30,
     "source": "public/modalidades/Desenho_e_Pintura"
   },
   {
