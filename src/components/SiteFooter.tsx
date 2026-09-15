@@ -171,6 +171,18 @@ export function SiteFooter() {
         </div>
       </div>
 
+      <div className="mx-auto w-full max-w-7xl px-4 pb-10 md:px-8">
+        <Image
+          src="/modalidades/abertura/i18.jpeg"
+          alt="Modalidades do ateliê NOBRE — argila, cobre, bronze e sucata, pintura, concreto, cordel e ateliê"
+          width={1600}
+          height={535}
+          className="h-auto w-full"
+          sizes="(max-width: 1280px) 100vw, 1280px"
+          unoptimized
+        />
+      </div>
+
       <div className="flex flex-col items-center justify-center gap-2 border-t border-white/10 px-4 py-5 text-center text-xs text-white/40 sm:flex-row sm:gap-3 md:px-8">
         <span className="inline-flex items-center gap-2.5">
           <BrandMark size={22} className="ring-white/25" />

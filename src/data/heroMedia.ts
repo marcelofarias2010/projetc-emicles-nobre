@@ -12,13 +12,13 @@ export type HeroSlide = {
 };
 
 /** Sufixo para forçar atualização de cache ao trocar as fotos do hero. */
-const HERO_CACHE = "v8";
+const HERO_CACHE = "v9";
 
 /**
- * Slides do carrossel full-bleed (s0…s14).
+ * Slides do carrossel full-bleed (s0…s16 e s18).
  */
 const CAROUSEL_SLIDE_NUMBERS = [
-  0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,
+  0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18,
 ] as const;
 
 export const heroCarousel: HeroSlide[] = CAROUSEL_SLIDE_NUMBERS.map((n) => ({
