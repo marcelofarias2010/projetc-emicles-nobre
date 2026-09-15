@@ -11,8 +11,8 @@ export function HomeInvite() {
       <div className="mx-auto grid max-w-7xl items-center gap-10 px-4 py-14 md:grid-cols-[0.9fr_1.1fr] md:gap-14 md:px-8 md:py-20">
         <div className="relative mx-auto aspect-[3/4] w-full max-w-md md:max-w-none">
           <Image
-            src="/modalidades/abertura/i19.jpeg"
-            alt="Emicles Nogueira Nobre — convite à leitura do ateliê NOBRE"
+            src="/modalidades/abertura/nobre_abertura.png"
+            alt="Emicles Nogueira Nobre — marca NOBRE"
             fill
             className="object-contain"
             sizes="(max-width: 768px) 100vw, 42vw"

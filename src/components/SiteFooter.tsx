@@ -56,23 +56,12 @@ function WhatsAppIcon({ className = "" }: { className?: string }) {
 }
 
 /**
- * Rodapé com imagem de abertura à esquerda e conteúdo textual à direita.
+ * Rodapé com conteúdo textual à esquerda e imagem à direita.
  */
 export function SiteFooter() {
   return (
     <footer className="border-t border-line bg-deep text-white">
-      <div className="mx-auto grid max-w-7xl items-center gap-10 px-4 py-14 md:grid-cols-[minmax(0,1.15fr)_minmax(0,1.2fr)] md:gap-12 md:px-8">
-        <div className="relative mx-auto aspect-[16/10] w-full max-w-xl overflow-hidden md:mx-0 md:max-w-none">
-          <Image
-            src="/modalidades/abertura/61-desenho.jpeg"
-            alt="A vida de cada pessoa é uma caixinha de surpresas — NOBRE"
-            fill
-            className="object-contain object-left"
-            sizes="(max-width: 768px) 100vw, 48vw"
-            unoptimized
-          />
-        </div>
-
+      <div className="mx-auto grid max-w-7xl items-center gap-10 px-4 py-14 md:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)] md:gap-12 md:px-8">
         <div className="flex flex-col gap-10">
           <div>
             <p
@@ -169,16 +158,27 @@ export function SiteFooter() {
             </div>
           </div>
         </div>
+
+        <div className="relative mx-auto aspect-[16/10] w-full max-w-xl overflow-hidden md:mx-0 md:max-w-none">
+          <Image
+            src="/modalidades/abertura/61-desenho.jpeg"
+            alt="A vida de cada pessoa é uma caixinha de surpresas — NOBRE"
+            fill
+            className="object-contain object-right"
+            sizes="(max-width: 768px) 100vw, 45vw"
+            unoptimized
+          />
+        </div>
       </div>
 
-      <div className="mx-auto w-full max-w-7xl px-4 pb-10 md:px-8">
+      <div className="w-full pb-10">
         <Image
           src="/modalidades/abertura/i18.jpeg"
           alt="Modalidades do ateliê NOBRE — argila, cobre, bronze e sucata, pintura, concreto, cordel e ateliê"
           width={1600}
           height={535}
           className="h-auto w-full"
-          sizes="(max-width: 1280px) 100vw, 1280px"
+          sizes="100vw"
           unoptimized
         />
       </div>
