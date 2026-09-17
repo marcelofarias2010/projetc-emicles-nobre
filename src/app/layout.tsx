@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { Fraunces, Outfit } from "next/font/google";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
@@ -35,6 +36,9 @@ export const metadata: Metadata = {
   },
 };
 
+/**
+ * Layout raiz do site com header, footer e Analytics da Vercel.
+ */
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -46,6 +50,7 @@ export default function RootLayout({
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />
+        <Analytics />
       </body>
     </html>
   );
